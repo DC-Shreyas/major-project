@@ -1,0 +1,57 @@
+{
+  "status": "synthetic_dataset_model_ready",
+  "data_source": "dataset/synthetic_property_valuation_data.csv + dataset/synthetic_registered_deeds_validation.csv",
+  "records": 3000,
+  "distinct_micro_markets": 678,
+  "sro_areas": [
+    "BTM Layout",
+    "JP Nagar",
+    "Jayanagar"
+  ],
+  "property_types": [
+    "Apartment/Flat",
+    "Residential Site",
+    "Villa/Row House"
+  ],
+  "quarters": [
+    "2023Q2",
+    "2023Q3",
+    "2023Q4",
+    "2024Q1"
+  ],
+  "training_quarters": [
+    "2023Q2",
+    "2023Q3"
+  ],
+  "training_rows": 1507,
+  "calibration_quarter": "2023Q4",
+  "calibration_rows": 79,
+  "evaluation_quarter": "2024Q1",
+  "evaluation_rows": 724,
+  "synthetic_validation_anchors_in_evaluation": 78,
+  "model": "Random forest on property, micro-market, guidance, asking, and declared-price features; estimates and intervals are bounded by the supplied guidance, declared, and asking values.",
+  "calibration": {
+    "nominal_coverage_percent": 90.0,
+    "observed_coverage_percent": 91.71,
+    "mean_width_inr": 3491575.66,
+    "log_error_quantile": 0.087728,
+    "reference_rows": 79
+  },
+  "holdout_metrics_against_synthetic_reference_price": {
+    "mae_inr": 987501.95,
+    "mape_percent": 3.616,
+    "r2": 0.9667
+  },
+  "geometric_signal_baseline_metrics": {
+    "mae_inr": 1519211.08,
+    "mape_percent": 5.956,
+    "r2": 0.9823
+  },
+  "price_summary": {
+    "median_reference_price_inr": 19127249,
+    "median_asking_price_inr": 22212570,
+    "median_declared_price_inr": 16552052,
+    "median_price_per_sqft_inr": 11111.69
+  },
+  "scope_note": "Generated files are the canonical dataset for this software project. All model metrics describe recovery of generated synthetic reference prices and do not measure real-world accuracy."
+}

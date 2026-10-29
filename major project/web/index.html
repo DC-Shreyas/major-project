@@ -1,0 +1,273 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f7f3">
+  <title>NammaValue — Bengaluru Property Explorer</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Main navigation">
+      <a class="brand" href="#overview" aria-label="NammaValue home">
+        <span class="brand-mark">N</span>
+        <span class="brand-copy"><strong>NammaValue</strong><small>PROPERTY EXPLORER</small></span>
+      </a>
+      <div class="sidebar-label">Workspace</div>
+      <nav class="nav-list">
+        <button class="nav-link active" data-view="overview" type="button">
+          <span class="nav-icon">◫</span><span>Overview</span>
+        </button>
+        <button class="nav-link" data-view="records" type="button">
+          <span class="nav-icon">▤</span><span>Explore records</span>
+        </button>
+        <button class="nav-link" data-view="estimate" type="button">
+          <span class="nav-icon">⌁</span><span>Estimate a home</span>
+        </button>
+        <button class="nav-link" data-view="about" type="button">
+          <span class="nav-icon">ⓘ</span><span>About this dataset</span>
+        </button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="sample-badge"><span class="pulse"></span> Synthetic data workspace</div>
+        <p>Generated records only<br>JP Nagar · Jayanagar · BTM Layout</p>
+        <div class="sidebar-version">Local research prototype <span>v1</span></div>
+      </div>
+    </aside>
+
+    <main class="main-area">
+      <header class="topbar">
+        <div class="breadcrumb"><span>Workspace</span><span class="crumb-separator">/</span><strong id="current-section">Overview</strong></div>
+        <div class="topbar-right">
+          <span class="data-pill"><span class="status-dot"></span> 3,000 paired records</span>
+          <span class="avatar" aria-label="Local workspace">NV</span>
+        </div>
+      </header>
+
+      <section class="view active" id="view-overview" aria-labelledby="overview-title">
+        <div class="page-heading">
+          <div>
+            <div class="eyebrow">BENGALURU · MARKET SNAPSHOT</div>
+            <h1 id="overview-title">A clearer view of the dataset.</h1>
+            <p>Explore generated property records, compare price signals, and see how the model behaves on its held-out quarter.</p>
+          </div>
+          <button class="button button-primary" data-go="estimate" type="button"><span>＋</span> Estimate a property</button>
+        </div>
+
+        <div class="filter-row overview-filters" aria-label="Overview filters">
+          <label>Sub-registrar area
+            <select id="filter-sro"><option value="">All areas</option></select>
+          </label>
+          <label>Property type
+            <select id="filter-type"><option value="">All property types</option></select>
+          </label>
+          <label>Quarter
+            <select id="filter-quarter"><option value="">All quarters</option></select>
+          </label>
+          <span class="filter-note" id="overview-row-count">Loading dataset…</span>
+        </div>
+
+        <div class="kpi-grid">
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Records in view</span><span class="kpi-icon icon-mint">▤</span></div>
+            <strong class="kpi-value" id="kpi-records">—</strong>
+            <span class="kpi-foot">Paired property and deed rows</span>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Median asking price</span><span class="kpi-icon icon-peach">₹</span></div>
+            <strong class="kpi-value" id="kpi-price">—</strong>
+            <span class="kpi-foot">Generated asking signal</span>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Median asking / sq ft</span><span class="kpi-icon icon-blue">↗</span></div>
+            <strong class="kpi-value" id="kpi-sqft">—</strong>
+            <span class="kpi-foot">Asking price ÷ property area</span>
+          </article>
+          <article class="kpi-card kpi-model">
+            <div class="kpi-top"><span>Held-out model MAPE</span><span class="kpi-icon icon-lilac">◎</span></div>
+            <strong class="kpi-value" id="kpi-mape">—</strong>
+            <span class="kpi-foot" id="kpi-mape-foot">2024 Q1 synthetic holdout</span>
+          </article>
+        </div>
+
+        <div class="content-grid chart-grid">
+          <article class="panel trend-panel">
+            <div class="panel-heading">
+              <div><h2>Price signals over time</h2><p>Quarterly median values for the selected records</p></div>
+              <div class="legend">
+                <span><i class="legend-dot dot-green"></i>Guidance</span>
+                <span><i class="legend-dot dot-orange"></i>Asking</span>
+                <span><i class="legend-dot dot-slate"></i>Declared</span>
+              </div>
+            </div>
+            <div id="trend-chart" class="chart-area" aria-label="Quarterly price signal chart"></div>
+          </article>
+          <article class="panel mix-panel">
+            <div class="panel-heading">
+              <div><h2>Property mix</h2><p>Records by property type</p></div>
+            </div>
+            <div id="property-mix" class="mix-list"></div>
+          </article>
+        </div>
+
+        <div class="content-grid lower-grid">
+          <article class="panel markets-panel">
+            <div class="panel-heading">
+              <div><h2>Locality snapshot</h2><p>Highest median generated asking prices in this view</p></div>
+              <button class="text-button" data-go="records" type="button">Browse all <span>→</span></button>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Micro-market</th><th>Records</th><th>Median asking / sq ft</th><th>Median asking</th></tr></thead>
+                <tbody id="market-table"><tr><td colspan="4" class="empty-cell">Loading…</td></tr></tbody>
+              </table>
+            </div>
+          </article>
+          <article class="panel note-panel">
+            <div class="note-mark">i</div>
+            <div><h2>Reading this snapshot</h2><p>All prices in this workspace are generated. Model metrics compare estimates with generated reference prices and should not be used as a real-world appraisal.</p><button class="text-button" data-go="about" type="button">Dataset details <span>→</span></button></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="view" id="view-records" aria-labelledby="records-title">
+        <div class="page-heading">
+          <div>
+            <div class="eyebrow">DATA EXPLORER</div>
+            <h1 id="records-title">Explore property records.</h1>
+            <p>Search the paired synthetic dataset and inspect its asking, declared, and guidance signals. Synthetic reference labels used for evaluation are hidden from this explorer.</p>
+          </div>
+        </div>
+        <div class="panel records-panel">
+          <div class="records-toolbar">
+            <label class="search-field"><span>⌕</span><input id="record-search" type="search" placeholder="Search locality or record ID" autocomplete="off"></label>
+            <label><span class="sr-only">Sub-registrar area</span><select id="records-sro"><option value="">All areas</option></select></label>
+            <label><span class="sr-only">Property type</span><select id="records-type"><option value="">All types</option></select></label>
+            <label><span class="sr-only">Quarter</span><select id="records-quarter"><option value="">All quarters</option></select></label>
+          </div>
+          <div class="table-wrap records-table-wrap">
+            <table class="records-table">
+              <thead><tr><th>Record</th><th>Micro-market</th><th>Type</th><th>Quarter</th><th>Area</th><th>Asking</th><th>Declared</th><th>Guidance</th></tr></thead>
+              <tbody id="records-table-body"><tr><td colspan="8" class="empty-cell">Loading…</td></tr></tbody>
+            </table>
+          </div>
+          <div class="pagination">
+            <span id="records-count">—</span>
+            <div class="page-controls"><button id="page-prev" type="button" aria-label="Previous page">←</button><span id="page-label">1 / 1</span><button id="page-next" type="button" aria-label="Next page">→</button></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="view" id="view-estimate" aria-labelledby="estimate-title">
+        <div class="page-heading">
+          <div>
+            <div class="eyebrow">INTERACTIVE ESTIMATOR</div>
+            <h1 id="estimate-title">Estimate a property.</h1>
+            <p>Adjust the property details and price signals. BLP-Graph combines them with the selected synthetic market and prior-quarter context.</p>
+          </div>
+        </div>
+        <div class="estimate-layout">
+          <form id="estimate-form" class="panel estimate-form">
+            <div class="form-section">
+              <div class="form-section-heading"><span class="step-number">01</span><div><h2>Where is the property?</h2><p>Select a covered area and micro-market.</p></div></div>
+              <div class="form-grid two-cols">
+                <label>Sub-registrar area<select id="input-sro" name="sro_area" required></select></label>
+                <label>Property type<select id="input-type" name="property_type" required></select></label>
+                <label class="span-two">Micro-market<select id="input-market" name="micro_market_id"><option value="">Choose a micro-market</option></select></label>
+                <label>Estimate quarter (calibrated)<select id="input-quarter" name="as_of_quarter" required></select></label>
+                <label>Guideline rate (₹ / sq m)<input id="input-rate" name="guideline_rate_inr_per_sqm" type="number" min="1" step="any" required></label>
+              </div>
+            </div>
+            <div class="form-section">
+              <div class="form-section-heading"><span class="step-number">02</span><div><h2>What are the property details?</h2><p>Leave bedroom or floor blank for a site.</p></div></div>
+              <div class="form-grid two-cols">
+                <label>Area (sq ft)<input id="input-area" name="area_sqft" type="number" min="1" step="any" value="1200" required></label>
+                <label>Bedrooms<input id="input-bedrooms" name="bedrooms" type="number" min="0" step="any" placeholder="Optional"></label>
+                <label>Building age (years)<input id="input-age" name="building_age_years" type="number" min="0" step="any" value="10"></label>
+                <label>Floor<input id="input-floor" name="floor_number" type="number" min="0" step="any" placeholder="Optional"></label>
+              </div>
+            </div>
+            <div class="form-section">
+              <div class="form-section-heading"><span class="step-number">03</span><div><h2>Set the price signals.</h2><p>Generated values use both signals as model inputs.</p></div></div>
+              <div class="form-grid two-cols">
+                <label>Asking price (₹)<input id="input-asking" name="asking_price_inr" type="number" min="1" step="any" required></label>
+                <label>Declared price (₹)<input id="input-declared" name="declared_price_inr" type="number" min="1" step="any" required></label>
+              </div>
+              <div class="bound-hint"><span>↳</span> The declared price and guidance reference set the lower bound. Asking price sets the upper bound.</div>
+            </div>
+            <div class="form-submit-row">
+              <p id="estimate-error" class="form-error" role="alert"></p>
+              <button class="button button-primary estimate-submit" type="submit">Calculate estimate <span>→</span></button>
+            </div>
+          </form>
+
+          <aside class="estimate-aside">
+            <article class="panel estimate-result" id="estimate-result" aria-live="polite">
+              <div class="result-placeholder">
+                <div class="placeholder-icon">⌁</div>
+                <h2>Your estimate will appear here.</h2>
+                <p>Choose the area, enter property details and price signals, then calculate.</p>
+              </div>
+            </article>
+            <article class="panel methodology-mini">
+              <div class="mini-icon">✳</div>
+              <div><strong>Model snapshot</strong><p id="model-snapshot">Loading training and calibration details…</p></div>
+            </article>
+          </aside>
+        </div>
+      </section>
+
+      <section class="view" id="view-about" aria-labelledby="about-title">
+        <div class="page-heading">
+          <div>
+            <div class="eyebrow">PROJECT NOTES</div>
+            <h1 id="about-title">About this dataset.</h1>
+            <p>The generated property and deed tables are the canonical inputs for this version of the project.</p>
+          </div>
+        </div>
+        <div class="about-grid">
+          <article class="panel about-main">
+            <div class="about-icon">◈</div>
+            <h2>One source for the current workflow.</h2>
+            <p>The model joins <code>synthetic_property_valuation_data.csv</code> with <code>synthetic_registered_deeds_validation.csv</code> using the shared property ID. The app does not require the original listing file, deed records, or guidance PDFs.</p>
+            <div class="data-stats">
+              <div><span>Property rows</span><strong id="about-records">3,000</strong></div>
+              <div><span>Covered SRO areas</span><strong>3</strong></div>
+              <div><span>Quarter range</span><strong>2023 Q2 — 2024 Q1</strong></div>
+            </div>
+            <h3>How the estimate works</h3>
+            <ol class="method-list">
+              <li><span>1</span><div><strong>Build the additive property signal.</strong><p>Spline terms encode area, bedrooms, age, and floor, with property-type and SRO terms in an interpretable hedonic component.</p></div></li>
+              <li><span>2</span><div><strong>Share market and time context.</strong><p>Multi-head attention links functionally similar synthetic micro-markets; a GRU summarizes prior-quarter asking and declared signals.</p></div></li>
+              <li><span>3</span><div><strong>Train, calibrate, and constrain.</strong><p>An interval-censored loss uses the two price signals. Flagged generated references supervise price, asking-markup, and under-declaration heads; conformal calibration uses 2023 Q4 anchors.</p></div></li>
+            </ol>
+          </article>
+          <aside class="about-side">
+            <article class="panel integrity-card">
+              <span class="integrity-icon">!</span>
+              <div class="eyebrow">DATA STATUS</div>
+              <h2>Generated records, clearly labeled.</h2>
+              <p>The files contain synthetic values. Model scores only describe how well the model recovers generated reference prices in the held-out quarter.</p>
+              <p>They are not sale records, independent valuations, or evidence of real Bengaluru prices.</p>
+              <p>The CSVs contain no coordinates, RERA records, amenity locations, or dated metro milestones. The graph represents functional market similarity, not geographic adjacency.</p>
+            </article>
+            <article class="panel file-card">
+              <h2>Source files</h2>
+              <div class="file-row"><span class="file-type">CSV</span><span><strong>Property valuation data</strong><small>3,000 generated property rows</small></span></div>
+              <div class="file-row"><span class="file-type file-type-blue">CSV</span><span><strong>Deed and validation data</strong><small>3,000 linked generated rows</small></span></div>
+              <div class="file-row"><span class="file-type file-type-green">ML</span><span><strong>Time split</strong><small>Train Q2–Q3 · calibrate Q4 · hold out Q1</small></span></div>
+            </article>
+          </aside>
+        </div>
+      </section>
+
+      <footer class="app-footer">
+        <span>NammaValue research prototype</span>
+        <span>Generated synthetic dataset · Bengaluru study areas</span>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

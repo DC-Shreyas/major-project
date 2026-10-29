@@ -1,0 +1,30 @@
+{
+  "status": "synthetic_anchor_only_baselines",
+  "data_source": "dataset/synthetic_property_valuation_data.csv + dataset/synthetic_registered_deeds_validation.csv",
+  "target": "generated latent reference price; not observed asking or transaction prices",
+  "metrics": {
+    "hedonic_gam_ridge_anchor_proxy": {
+      "n": 724,
+      "mae_inr": 2591726.05,
+      "rmse_inr": 4960590.82,
+      "mape_percent": 11.163,
+      "median_ape_percent": 10.441,
+      "hit_rate_within_10_percent": 48.204,
+      "hit_rate_within_20_percent": 81.354,
+      "training_anchor_count": 143,
+      "description": "Spline-feature Ridge hedonic proxy; generated anchor labels only."
+    },
+    "hist_gradient_boosting_anchor_proxy": {
+      "n": 724,
+      "mae_inr": 2660775.37,
+      "rmse_inr": 5022282.19,
+      "mape_percent": 11.299,
+      "median_ape_percent": 10.311,
+      "hit_rate_within_10_percent": 48.481,
+      "hit_rate_within_20_percent": 79.42,
+      "training_anchor_count": 143,
+      "description": "Histogram gradient boosting tabular proxy; not LightGBM, generated anchor labels only."
+    }
+  },
+  "scope_note": "Only the two canonical synthetic CSV files were used. The historical real-listing baseline is disabled in this synthetic-only project."
+}

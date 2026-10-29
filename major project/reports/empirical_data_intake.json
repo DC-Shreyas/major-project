@@ -1,0 +1,14 @@
+{
+  "status": "synthetic_data_only_no_empirical_intake",
+  "ready_for_linkage_review": false,
+  "canonical_synthetic_records": 3000,
+  "registered_deeds": {
+    "status": "generated_fixture_only",
+    "accepted_as_empirical": false
+  },
+  "independent_validation": {
+    "status": "generated_fixture_only",
+    "accepted_as_empirical": false
+  },
+  "scope_note": "Only the canonical synthetic pair was inspected. No separate deed or independent-validation files were read; generated references are not empirical observations."
+}

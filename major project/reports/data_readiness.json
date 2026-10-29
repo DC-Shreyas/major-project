@@ -1,0 +1,13 @@
+{
+  "project_status": "synthetic_pair_prepared",
+  "data_source": "dataset/synthetic_property_valuation_data.csv + dataset/synthetic_registered_deeds_validation.csv",
+  "records": 3000,
+  "micro_markets": 678,
+  "quarters": [
+    "2023Q2",
+    "2023Q3",
+    "2023Q4",
+    "2024Q1"
+  ],
+  "scope_note": "Only the two canonical synthetic CSV files were read. This workflow does not inspect original listings, deeds, guidance PDFs, or spatial files."
+}

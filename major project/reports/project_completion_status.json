@@ -1,0 +1,81 @@
+{
+  "project_status": "synthetic_blp_graph_workflow_complete",
+  "data_source": "dataset/synthetic_property_valuation_data.csv + dataset/synthetic_registered_deeds_validation.csv",
+  "records": 3000,
+  "scope": [
+    "BTM Layout",
+    "JP Nagar",
+    "Jayanagar"
+  ],
+  "quarters": [
+    "2023Q2",
+    "2023Q3",
+    "2023Q4",
+    "2024Q1"
+  ],
+  "model": "Native PyTorch additive spline GAM hedonic head plus multi-head attention over training-profile-only functional micro-market similarity edges and a GRU over prior-quarter asking/guidance and declared/guidance summaries. Unseen markets map to a shared OOV node. Training combines interval-censored likelihood with generated exact-price anchors; inference uses a bounded truncated-lognormal posterior mean.",
+  "model_evaluation": {
+    "training_quarters": [
+      "2023Q2",
+      "2023Q3"
+    ],
+    "training_rows": 1507,
+    "calibration_quarter": "2023Q4",
+    "calibration_anchor_rows": 79,
+    "holdout_quarter": "2024Q1",
+    "holdout_rows": 724,
+    "holdout_mape_percent": 5.856,
+    "holdout_mae_inr": 1496263.72,
+    "interval_nominal_coverage_percent": 90.0,
+    "interval_observed_coverage_percent": 95.99447513812154
+  },
+  "experiments": {
+    "random_seeds": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030
+    ],
+    "ablation_variants": [
+      "no_asking_signal",
+      "no_censored_likelihood",
+      "no_deed_signal",
+      "no_functional_graph_edges",
+      "no_gru_temporal_module"
+    ],
+    "anchor_only_baselines": [
+      "hedonic_gam_ridge_anchor_proxy",
+      "hist_gradient_boosting_anchor_proxy"
+    ],
+    "leave_micro_market_out_mape_percent": 8.541
+  },
+  "website": {
+    "entry_point": "scripts/serve_web_app.py",
+    "local_url": "http://127.0.0.1:8765",
+    "features": [
+      "filtered overview and quarterly signals",
+      "searchable synthetic records",
+      "interactive graph model estimates and intervals",
+      "asking markup and under-declaration diagnostics",
+      "generated feature comparables"
+    ]
+  },
+  "data_status": "ALL model training labels, paired signals, and validation values in this run are generated synthetic fixtures; not observed Bengaluru transactions.",
+  "proposal_coverage_gaps": [
+    "No listing portal originals, observed registered deeds, RERA project table, property coordinates, POI data, IT park data, or dated metro milestones are present in the two canonical CSVs.",
+    "The graph therefore uses functional similarity edges between synthetic micro-market nodes, not spatial adjacency or a full project/city/amenity graph.",
+    "The five-seed and holdout scores measure recovery of generated latent prices only; they do not establish real-market accuracy or conformal coverage under temporal shift.",
+    "LightGBM, MugRep, ReGram, ST-RAP, SHAP, and the proposal's formal Diebold-Mariano comparison are not implemented; available comparisons include anchor-only Ridge and histogram-gradient-boosting proxies, signal baselines, ablations, and paired Wilcoxon diagnostics."
+  ],
+  "outputs": [
+    "data/processed/property_records.csv",
+    "data/processed/synthetic_blp_graph_holdout_predictions.csv",
+    "data/processed/synthetic_functional_market_graph.csv",
+    "data/processed/synthetic_market_quarter_indices.csv",
+    "reports/synthetic_blp_graph_metrics.json",
+    "reports/synthetic_blp_graph_metrics.md",
+    "reports/project_completion_status.json",
+    "reports/PROJECT_COMPLETION_REPORT.md"
+  ]
+}

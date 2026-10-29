@@ -1,0 +1,34 @@
+{
+  "status": "blocked_missing_property_coordinates",
+  "property_geospatial_linkage_ready": false,
+  "study_area": [
+    "JP Nagar",
+    "Jayanagar",
+    "BTM Layout"
+  ],
+  "assets": {
+    "canonical_synthetic_rows": 3000,
+    "canonical_rows_with_coordinates": 0,
+    "coordinate_columns_in_canonical_data": false,
+    "metro_network_rows": 0,
+    "bmtc_route_stop_occurrences": 0,
+    "bbmp_ward_polygons": 0,
+    "poi_or_it_park_data_available": false,
+    "dated_metro_event_data_available": false,
+    "property_coordinates_available": false
+  },
+  "derived_features": {
+    "property_latitude_longitude": false,
+    "h3_resolution_9_cell": false,
+    "nearest_metro_distance": false,
+    "nearest_bmtc_distance": false,
+    "poi_or_it_park_distance": false,
+    "dated_metro_event_features": false
+  },
+  "blockers": [
+    "The canonical synthetic files do not provide property coordinates.",
+    "No metro, bus-stop, ward, amenity/IT-park, or dated metro-event data is used by this synthetic-only workflow."
+  ],
+  "data_source": "The two canonical synthetic CSV files only.",
+  "policy": "No additional spatial files are inspected. H3 and proximity features remain unavailable until spatial data is explicitly added to the permitted project inputs."
+}

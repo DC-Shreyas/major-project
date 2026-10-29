@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: blr-micro-market-valuation
+Version: 0.1.0
+Summary: Research pipeline for Bengaluru residential property valuation
+Requires-Python: >=3.11
+Requires-Dist: PyMuPDF>=1.24
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.0
+Requires-Dist: scikit-learn>=1.4
+Requires-Dist: scipy>=1.10
+Requires-Dist: torch>=2.0

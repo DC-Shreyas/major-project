@@ -1,0 +1,553 @@
+﻿record_id,study_micro_market,locality,area_type,availability_text,bedrooms,bathrooms,balconies,area_sqft,asking_price_inr,asking_price_per_sqft_inr,data_status,source_file,source_record_number
+LIST-00013,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1000.0,3800000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,13
+LIST-00138,JP Nagar,8th Phase JP Nagar,Super built-up Area,19-Mar,2.0,2.0,0.0,1073.5,5400500,5030.740568234746,observed_portal_listing,Bengaluru_House_Data.csv,138
+LIST-00211,Jayanagar,1st Block Jayanagar,Super built-up Area,20-May,4.0,4.0,1.0,2850.0,42800000,15017.543859649122,observed_portal_listing,Bengaluru_House_Data.csv,211
+LIST-00227,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1080.0,7200000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,227
+LIST-00253,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1270.0,9300000,7322.834645669292,observed_portal_listing,Bengaluru_House_Data.csv,253
+LIST-00282,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,1.0,1420.0,10000000,7042.2535211267605,observed_portal_listing,Bengaluru_House_Data.csv,282
+LIST-00295,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1005.0,5000000,4975.124378109453,observed_portal_listing,Bengaluru_House_Data.csv,295
+LIST-00310,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1850.0,15000000,8108.108108108108,observed_portal_listing,Bengaluru_House_Data.csv,310
+LIST-00334,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1192.0,7400000,6208.053691275168,observed_portal_listing,Bengaluru_House_Data.csv,334
+LIST-00344,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,1.0,1850.0,15000000,8108.108108108108,observed_portal_listing,Bengaluru_House_Data.csv,344
+LIST-00368,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1075.0,6000000,5581.395348837209,observed_portal_listing,Bengaluru_House_Data.csv,368
+LIST-00378,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-May,1.0,1.0,0.0,451.0,2990000,6629.711751662971,observed_portal_listing,Bengaluru_House_Data.csv,378
+LIST-00390,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1245.0,9400000,7550.2008032128515,observed_portal_listing,Bengaluru_House_Data.csv,390
+LIST-00405,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1175.0,8200000,6978.723404255319,observed_portal_listing,Bengaluru_House_Data.csv,405
+LIST-00435,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,8.0,8.0,,1200.0,25000000,20833.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,435
+LIST-00443,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1400.0,9500000,6785.714285714285,observed_portal_listing,Bengaluru_House_Data.csv,443
+LIST-00486,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,4.0,4.0,3.0,3600.0,40000000,11111.111111111111,observed_portal_listing,Bengaluru_House_Data.csv,486
+LIST-00494,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,2.0,3.0,3.0,1150.0,5250000,4565.217391304348,observed_portal_listing,Bengaluru_House_Data.csv,494
+LIST-00508,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1000.0,3500000,3500.0,observed_portal_listing,Bengaluru_House_Data.csv,508
+LIST-00514,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,2.0,660.0,9000000,13636.363636363636,observed_portal_listing,Bengaluru_House_Data.csv,514
+LIST-00540,Jayanagar,7th Block Jayanagar,Built-up Area,Ready To Move,5.0,3.0,1.0,3000.0,52800000,17600.0,observed_portal_listing,Bengaluru_House_Data.csv,540
+LIST-00546,JP Nagar,2nd Phase JP Nagar,Plot Area,Ready To Move,3.0,3.0,0.0,2610.0,49900000,19118.773946360154,observed_portal_listing,Bengaluru_House_Data.csv,546
+LIST-00564,JP Nagar,7th Phase JP Nagar,Super built-up Area,19-Dec,3.0,3.0,1.0,2225.0,16000000,7191.011235955056,observed_portal_listing,Bengaluru_House_Data.csv,564
+LIST-00645,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1180.0,8000000,6779.661016949152,observed_portal_listing,Bengaluru_House_Data.csv,645
+LIST-00670,JP Nagar,JP Nagar,Super built-up Area,18-Dec,5.0,,,5520.0,37500000,6793.478260869565,observed_portal_listing,Bengaluru_House_Data.csv,670
+LIST-00703,JP Nagar,JP Nagar,Super built-up Area,18-Dec,5.0,,,5600.0,54850000,9794.642857142857,observed_portal_listing,Bengaluru_House_Data.csv,703
+LIST-00719,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,7100000,6761.9047619047615,observed_portal_listing,Bengaluru_House_Data.csv,719
+LIST-00761,JP Nagar,5th Phase JP Nagar,Super built-up Area,18-Aug,2.0,2.0,2.0,1070.0,3900000,3644.8598130841124,observed_portal_listing,Bengaluru_House_Data.csv,761
+LIST-00802,JP Nagar,JP Nagar,Super built-up Area,18-Dec,4.0,,,4624.5,45300000,9795.653584171261,observed_portal_listing,Bengaluru_House_Data.csv,802
+LIST-00804,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,0.0,1100.0,4600000,4181.818181818182,observed_portal_listing,Bengaluru_House_Data.csv,804
+LIST-00825,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,918.0,5049000,5500.0,observed_portal_listing,Bengaluru_House_Data.csv,825
+LIST-00833,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1450.0,10000000,6896.551724137931,observed_portal_listing,Bengaluru_House_Data.csv,833
+LIST-00844,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1040.0,3952000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,844
+LIST-00849,Jayanagar,1st Block Jayanagar,Super built-up Area,18-Jun,3.0,3.0,2.0,1630.0,19400000,11901.840490797545,observed_portal_listing,Bengaluru_House_Data.csv,849
+LIST-00850,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,3.0,3.0,2.0,1240.0,4350000,3508.064516129032,observed_portal_listing,Bengaluru_House_Data.csv,850
+LIST-00897,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1070.0,4279000,3999.0654205607475,observed_portal_listing,Bengaluru_House_Data.csv,897
+LIST-00937,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,4.0,4.0,3.0,2825.0,25000000,8849.557522123894,observed_portal_listing,Bengaluru_House_Data.csv,937
+LIST-00939,JP Nagar,5th Phase JP Nagar,Plot Area,Ready To Move,9.0,11.0,,1260.0,29000000,23015.873015873014,observed_portal_listing,Bengaluru_House_Data.csv,939
+LIST-00985,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1190.0,4998000,4200.0,observed_portal_listing,Bengaluru_House_Data.csv,985
+LIST-01013,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1256.0,6280000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,1013
+LIST-01025,JP Nagar,1st Phase JP Nagar,Plot Area,Ready To Move,8.0,7.0,2.0,1200.0,24000000,20000.0,observed_portal_listing,Bengaluru_House_Data.csv,1025
+LIST-01040,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,4.0,4.0,3.0,1215.0,20500000,16872.427983539095,observed_portal_listing,Bengaluru_House_Data.csv,1040
+LIST-01054,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,3.0,3.0,1.0,1500.0,17000000,11333.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,1054
+LIST-01056,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1100.0,7000000,6363.636363636364,observed_portal_listing,Bengaluru_House_Data.csv,1056
+LIST-01079,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,9.0,14.0,,3300.0,50000000,15151.515151515152,observed_portal_listing,Bengaluru_House_Data.csv,1079
+LIST-01100,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1420.0,9600000,6760.56338028169,observed_portal_listing,Bengaluru_House_Data.csv,1100
+LIST-01104,JP Nagar,5th Phase JP Nagar,Plot Area,Ready To Move,9.0,6.0,3.0,812.0,16500000,20320.197044334975,observed_portal_listing,Bengaluru_House_Data.csv,1104
+LIST-01163,Jayanagar,1st Block Jayanagar,Super built-up Area,17-Dec,6.0,6.0,2.0,1200.0,12500000,10416.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,1163
+LIST-01224,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,12000000,7142.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,1224
+LIST-01238,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,4200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,1238
+LIST-01333,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,980.0,6900000,7040.816326530612,observed_portal_listing,Bengaluru_House_Data.csv,1333
+LIST-01340,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,940.0,4900000,5212.765957446809,observed_portal_listing,Bengaluru_House_Data.csv,1340
+LIST-01426,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,3.0,2.0,2500.0,13500000,5400.0,observed_portal_listing,Bengaluru_House_Data.csv,1426
+LIST-01440,Jayanagar,9th Block Jayanagar,Plot Area,Ready To Move,1.0,1.0,0.0,700.0,15000000,21428.571428571428,observed_portal_listing,Bengaluru_House_Data.csv,1440
+LIST-01493,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,7.0,6.0,2.0,1200.0,19500000,16250.0,observed_portal_listing,Bengaluru_House_Data.csv,1493
+LIST-01494,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1207.0,6300000,5219.552609776305,observed_portal_listing,Bengaluru_House_Data.csv,1494
+LIST-01541,Jayanagar,3rd Block Jayanagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1000.0,13000000,13000.0,observed_portal_listing,Bengaluru_House_Data.csv,1541
+LIST-01546,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1035.0,4139000,3999.0338164251207,observed_portal_listing,Bengaluru_House_Data.csv,1546
+LIST-01558,JP Nagar,JP Nagar,Super built-up Area,18-Jul,2.0,2.0,2.0,1120.0,3360000,3000.0,observed_portal_listing,Bengaluru_House_Data.csv,1558
+LIST-01594,JP Nagar,JP Nagar,Plot Area,Ready To Move,9.0,9.0,0.0,2550.0,36000000,14117.64705882353,observed_portal_listing,Bengaluru_House_Data.csv,1594
+LIST-01678,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1370.0,5617000,4100.0,observed_portal_listing,Bengaluru_House_Data.csv,1678
+LIST-01695,JP Nagar,JP Nagar,Super built-up Area,18-Dec,4.0,4.0,0.0,4624.5,31450000,6800.735214617796,observed_portal_listing,Bengaluru_House_Data.csv,1695
+LIST-01700,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1890.0,8500000,4497.354497354498,observed_portal_listing,Bengaluru_House_Data.csv,1700
+LIST-01738,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1062.0,4247000,3999.0583804143125,observed_portal_listing,Bengaluru_House_Data.csv,1738
+LIST-01739,JP Nagar,JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1078.0,4500000,4174.397031539888,observed_portal_listing,Bengaluru_House_Data.csv,1739
+LIST-01756,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1725.0,10000000,5797.101449275362,observed_portal_listing,Bengaluru_House_Data.csv,1756
+LIST-01791,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1180.0,7200000,6101.6949152542375,observed_portal_listing,Bengaluru_House_Data.csv,1791
+LIST-01799,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,1.0,1.0,1.0,1050.0,4400000,4190.476190476191,observed_portal_listing,Bengaluru_House_Data.csv,1799
+LIST-01840,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,3.0,2.0,2000.0,25000000,12500.0,observed_portal_listing,Bengaluru_House_Data.csv,1840
+LIST-01881,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,6.0,7.0,,5080.0,45000000,8858.267716535433,observed_portal_listing,Bengaluru_House_Data.csv,1881
+LIST-01902,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1300.0,5200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,1902
+LIST-01917,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,2.0,2.0,2.0,1150.0,6300000,5478.260869565217,observed_portal_listing,Bengaluru_House_Data.csv,1917
+LIST-01942,JP Nagar,6th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,0.0,600.0,10000000,16666.666666666668,observed_portal_listing,Bengaluru_House_Data.csv,1942
+LIST-01962,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1440.0,6000000,4166.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,1962
+LIST-01979,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,3.0,5.0,1.0,1260.0,18500000,14682.539682539682,observed_portal_listing,Bengaluru_House_Data.csv,1979
+LIST-02047,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,1.0,1050.0,5700000,5428.571428571428,observed_portal_listing,Bengaluru_House_Data.csv,2047
+LIST-02052,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1343.0,5641000,4200.297840655249,observed_portal_listing,Bengaluru_House_Data.csv,2052
+LIST-02060,JP Nagar,9th Phase JP Nagar,Super built-up Area,21-Sep,2.0,2.0,1.0,1100.0,6500000,5909.090909090909,observed_portal_listing,Bengaluru_House_Data.csv,2060
+LIST-02088,BTM Layout,BTM 2nd Stage,Carpet Area,Ready To Move,2.0,2.0,1.0,950.0,5200000,5473.684210526316,observed_portal_listing,Bengaluru_House_Data.csv,2088
+LIST-02101,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1080.0,3700000,3425.925925925926,observed_portal_listing,Bengaluru_House_Data.csv,2101
+LIST-02107,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,1.0,1875.0,16700000,8906.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,2107
+LIST-02120,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1405.0,5901000,4200.0,observed_portal_listing,Bengaluru_House_Data.csv,2120
+LIST-02146,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1035.0,4500000,4347.826086956522,observed_portal_listing,Bengaluru_House_Data.csv,2146
+LIST-02153,Jayanagar,1st Block Jayanagar,Super built-up Area,Ready To Move,3.0,2.0,3.0,1875.0,23500000,12533.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,2153
+LIST-02158,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,1.0,1400.0,11500000,8214.285714285714,observed_portal_listing,Bengaluru_House_Data.csv,2158
+LIST-02188,JP Nagar,2nd Phase JP Nagar,Super built-up Area,Ready To Move,5.0,4.0,2.0,2800.0,20000000,7142.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,2188
+LIST-02208,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1075.0,4299000,3999.0697674418607,observed_portal_listing,Bengaluru_House_Data.csv,2208
+LIST-02210,BTM Layout,BTM Layout,Built-up Area,Ready To Move,3.0,3.0,0.0,3000.0,33800000,11266.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,2210
+LIST-02242,JP Nagar,2nd Phase JP Nagar,Super built-up Area,Ready To Move,2.0,1.0,1.0,1000.0,5500000,5500.0,observed_portal_listing,Bengaluru_House_Data.csv,2242
+LIST-02267,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,3.0,5000.0,29000000,5800.0,observed_portal_listing,Bengaluru_House_Data.csv,2267
+LIST-02270,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1100.0,4400000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,2270
+LIST-02273,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,4.0,4.0,,3245.0,25000000,7704.160246533128,observed_portal_listing,Bengaluru_House_Data.csv,2273
+LIST-02293,JP Nagar,1st Phase JP Nagar,Built-up Area,Ready To Move,5.0,5.0,,1500.0,8500000,5666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,2293
+LIST-02325,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1270.0,8300000,6535.433070866142,observed_portal_listing,Bengaluru_House_Data.csv,2325
+LIST-02356,Jayanagar,1st Block Jayanagar,Plot Area,Ready To Move,4.0,4.0,2.0,2400.0,45000000,18750.0,observed_portal_listing,Bengaluru_House_Data.csv,2356
+LIST-02363,JP Nagar,6th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,3.0,1645.0,10000000,6079.0273556231,observed_portal_listing,Bengaluru_House_Data.csv,2363
+LIST-02374,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,2.0,1200.0,14500000,12083.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,2374
+LIST-02390,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,3.0,2.0,2.0,1230.0,4350000,3536.5853658536585,observed_portal_listing,Bengaluru_House_Data.csv,2390
+LIST-02408,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,0.0,3300.0,15000000,4545.454545454545,observed_portal_listing,Bengaluru_House_Data.csv,2408
+LIST-02482,Jayanagar,Jayanagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1170.0,10500000,8974.358974358975,observed_portal_listing,Bengaluru_House_Data.csv,2482
+LIST-02502,JP Nagar,7th Phase JP Nagar,Super built-up Area,19-Dec,4.0,4.0,0.0,2503.0,18800000,7510.986815821015,observed_portal_listing,Bengaluru_House_Data.csv,2502
+LIST-02512,Jayanagar,Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,3095.0,37500000,12116.316639741519,observed_portal_listing,Bengaluru_House_Data.csv,2512
+LIST-02527,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2200.0,19000000,8636.363636363636,observed_portal_listing,Bengaluru_House_Data.csv,2527
+LIST-02587,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1035.0,3933000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,2587
+LIST-02610,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1250.0,6500000,5200.0,observed_portal_listing,Bengaluru_House_Data.csv,2610
+LIST-02612,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1164.0,5600000,4810.996563573884,observed_portal_listing,Bengaluru_House_Data.csv,2612
+LIST-02651,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1400.0,8800000,6285.714285714285,observed_portal_listing,Bengaluru_House_Data.csv,2651
+LIST-02692,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,4200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,2692
+LIST-02717,JP Nagar,JP Nagar,Super built-up Area,18-Mar,2.0,2.0,0.0,1352.5,9386500,6940.110905730129,observed_portal_listing,Bengaluru_House_Data.csv,2717
+LIST-02724,JP Nagar,8th Phase JP Nagar,Super built-up Area,20-Mar,3.0,3.0,2.0,1455.0,7331000,5038.487972508591,observed_portal_listing,Bengaluru_House_Data.csv,2724
+LIST-02736,BTM Layout,BTM 2nd Stage,Built-up Area,Ready To Move,3.0,3.0,,1850.0,17000000,9189.18918918919,observed_portal_listing,Bengaluru_House_Data.csv,2736
+LIST-02741,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,871.0,5500000,6314.580941446613,observed_portal_listing,Bengaluru_House_Data.csv,2741
+LIST-02767,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1450.0,5800000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,2767
+LIST-02775,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,4.0,5.0,3.0,1500.0,22000000,14666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,2775
+LIST-02785,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,1200.0,8000000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,2785
+LIST-02786,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,,1280.0,5600000,4375.0,observed_portal_listing,Bengaluru_House_Data.csv,2786
+LIST-02801,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1005.0,4200000,4179.104477611941,observed_portal_listing,Bengaluru_House_Data.csv,2801
+LIST-02864,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,4.0,2.0,1.0,1500.0,45000000,30000.0,observed_portal_listing,Bengaluru_House_Data.csv,2864
+LIST-02872,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,1274.0,7000000,5494.505494505494,observed_portal_listing,Bengaluru_House_Data.csv,2872
+LIST-02885,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,4.0,3.0,2.0,1200.0,18800000,15666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,2885
+LIST-02887,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,3.0,1700.0,10000000,5882.35294117647,observed_portal_listing,Bengaluru_House_Data.csv,2887
+LIST-02891,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1385.0,5817000,4200.0,observed_portal_listing,Bengaluru_House_Data.csv,2891
+LIST-02910,Jayanagar,4th T block Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2401.0,18500000,7705.12286547272,observed_portal_listing,Bengaluru_House_Data.csv,2910
+LIST-02912,Jayanagar,Jayanagar,Built-up Area,Ready To Move,3.0,2.0,3.0,1875.0,23500000,12533.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,2912
+LIST-02915,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,3.0,4.0,1.0,2065.0,21000000,10169.49152542373,observed_portal_listing,Bengaluru_House_Data.csv,2915
+LIST-02964,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1575.0,11000000,6984.126984126984,observed_portal_listing,Bengaluru_House_Data.csv,2964
+LIST-02984,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1098.0,4391000,3999.089253187614,observed_portal_listing,Bengaluru_House_Data.csv,2984
+LIST-03000,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1850.0,14000000,7567.5675675675675,observed_portal_listing,Bengaluru_House_Data.csv,3000
+LIST-03097,JP Nagar,Jp nagar 8th Phase .,Super built-up Area,Ready To Move,10.0,12.0,,12000.0,52500000,4375.0,observed_portal_listing,Bengaluru_House_Data.csv,3097
+LIST-03116,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1370.0,5479000,3999.2700729927005,observed_portal_listing,Bengaluru_House_Data.csv,3116
+LIST-03120,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1370.0,5479000,3999.2700729927005,observed_portal_listing,Bengaluru_House_Data.csv,3120
+LIST-03121,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1200.0,6200000,5166.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,3121
+LIST-03123,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,,3500.0,30000000,8571.42857142857,observed_portal_listing,Bengaluru_House_Data.csv,3123
+LIST-03134,Jayanagar,3rd Block Jayanagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1350.0,14000000,10370.37037037037,observed_portal_listing,Bengaluru_House_Data.csv,3134
+LIST-03155,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,4.0,3.0,2.0,3600.0,41000000,11388.888888888889,observed_portal_listing,Bengaluru_House_Data.csv,3155
+LIST-03157,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,4.0,3.0,1.0,1650.0,22000000,13333.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,3157
+LIST-03197,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,1.0,1800.0,8000000,4444.444444444444,observed_portal_listing,Bengaluru_House_Data.csv,3197
+LIST-03212,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,7.0,7.0,0.0,4800.0,17000000,3541.6666666666665,observed_portal_listing,Bengaluru_House_Data.csv,3212
+LIST-03219,JP Nagar,JP Nagar,Super built-up Area,18-May,2.0,2.0,1.0,1300.0,9087000,6990.0,observed_portal_listing,Bengaluru_House_Data.csv,3219
+LIST-03260,JP Nagar,9th Phase JP Nagar,Super built-up Area,19-Dec,2.0,2.0,1.0,1127.0,5000000,4436.557231588287,observed_portal_listing,Bengaluru_House_Data.csv,3260
+LIST-03276,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,4.0,2.0,2.0,600.0,9000000,15000.0,observed_portal_listing,Bengaluru_House_Data.csv,3276
+LIST-03287,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,2.0,2700.0,13000000,4814.814814814815,observed_portal_listing,Bengaluru_House_Data.csv,3287
+LIST-03306,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1300.0,5200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,3306
+LIST-03330,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1575.0,12000000,7619.047619047619,observed_portal_listing,Bengaluru_House_Data.csv,3330
+LIST-03482,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,,2024.0,15700000,7756.916996047431,observed_portal_listing,Bengaluru_House_Data.csv,3482
+LIST-03581,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,2.0,1.0,1315.0,8540000,6494.296577946768,observed_portal_listing,Bengaluru_House_Data.csv,3581
+LIST-03626,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1850.0,15000000,8108.108108108108,observed_portal_listing,Bengaluru_House_Data.csv,3626
+LIST-03670,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2059.0,22500000,10927.634774162214,observed_portal_listing,Bengaluru_House_Data.csv,3670
+LIST-03795,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,6.0,6.0,3.0,1045.0,16000000,15311.004784688996,observed_portal_listing,Bengaluru_House_Data.csv,3795
+LIST-03797,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,12000000,7142.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,3797
+LIST-03848,JP Nagar,"JP Nagar 8th Phase,",Built-up Area,Ready To Move,3.0,3.0,2.0,1853.0,8200000,4425.256341068538,observed_portal_listing,Bengaluru_House_Data.csv,3848
+LIST-03885,JP Nagar,"JP nagar 9th Phase,",Built-up Area,20-Dec,3.0,3.0,2.0,1531.0,7200000,4702.808621815807,observed_portal_listing,Bengaluru_House_Data.csv,3885
+LIST-03904,Jayanagar,4th Block Jayanagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,900.0,7000000,7777.777777777777,observed_portal_listing,Bengaluru_House_Data.csv,3904
+LIST-03939,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1690.0,11200000,6627.218934911242,observed_portal_listing,Bengaluru_House_Data.csv,3939
+LIST-03966,JP Nagar,6th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1140.0,6500000,5701.754385964912,observed_portal_listing,Bengaluru_House_Data.csv,3966
+LIST-04033,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,3.0,1.0,1212.0,4200000,3465.3465346534654,observed_portal_listing,Bengaluru_House_Data.csv,4033
+LIST-04103,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1175.0,8250000,7021.276595744681,observed_portal_listing,Bengaluru_House_Data.csv,4103
+LIST-04114,BTM Layout,BTM Layout,Super built-up Area,18-Jan,3.0,3.0,2.0,1797.57,1000000,556.3065694242783,observed_portal_listing,Bengaluru_House_Data.csv,4114
+LIST-04168,JP Nagar,6th Phase JP Nagar,Plot Area,Ready To Move,8.0,6.0,2.0,1650.0,13500000,8181.818181818182,observed_portal_listing,Bengaluru_House_Data.csv,4168
+LIST-04186,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Oct,2.0,2.0,2.0,1080.0,3800000,3518.5185185185187,observed_portal_listing,Bengaluru_House_Data.csv,4186
+LIST-04212,Jayanagar,Jayanagar,Built-up Area,Ready To Move,2.0,2.0,2.0,900.0,11000000,12222.222222222223,observed_portal_listing,Bengaluru_House_Data.csv,4212
+LIST-04220,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jan,2.0,2.0,2.0,1059.0,3450000,3257.790368271955,observed_portal_listing,Bengaluru_House_Data.csv,4220
+LIST-04257,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,4.0,4.0,2.0,3000.0,14000000,4666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,4257
+LIST-04263,JP Nagar,JP Nagar,Built-up Area,Ready To Move,4.0,4.0,2.0,3000.0,14000000,4666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,4263
+LIST-04284,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,4.0,3.0,3300.0,16000000,4848.484848484848,observed_portal_listing,Bengaluru_House_Data.csv,4284
+LIST-04286,JP Nagar,JP Nagar,Super built-up Area,18-Dec,2.0,2.0,1.0,1300.0,10900000,8384.615384615385,observed_portal_listing,Bengaluru_House_Data.csv,4286
+LIST-04348,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1485.0,6700000,4511.784511784512,observed_portal_listing,Bengaluru_House_Data.csv,4348
+LIST-04400,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,3.0,4.0,2.0,2200.0,10500000,4772.727272727273,observed_portal_listing,Bengaluru_House_Data.csv,4400
+LIST-04441,BTM Layout,BTM Layout,Built-up Area,Ready To Move,6.0,6.0,3.0,3300.0,16500000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,4441
+LIST-04448,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1080.0,3500000,3240.740740740741,observed_portal_listing,Bengaluru_House_Data.csv,4448
+LIST-04464,JP Nagar,JP Nagar,Super built-up Area,18-Dec,3.0,3.0,2.0,3860.0,40200000,10414.507772020725,observed_portal_listing,Bengaluru_House_Data.csv,4464
+LIST-04477,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1215.0,9000000,7407.407407407408,observed_portal_listing,Bengaluru_House_Data.csv,4477
+LIST-04487,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,0.0,1200.0,3500000,2916.6666666666665,observed_portal_listing,Bengaluru_House_Data.csv,4487
+LIST-04522,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,7500000,7142.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,4522
+LIST-04534,JP Nagar,"JP Nagar 7th Phase,",Super built-up Area,19-Jan,2.0,2.0,1.0,1150.0,7400000,6434.782608695652,observed_portal_listing,Bengaluru_House_Data.csv,4534
+LIST-04550,BTM Layout,BTM 2nd Stage,Super built-up Area,18-May,3.0,3.0,1.0,1250.0,5000000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,4550
+LIST-04604,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1005.0,4300000,4278.606965174129,observed_portal_listing,Bengaluru_House_Data.csv,4604
+LIST-04606,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1394.0,10000000,7173.601147776184,observed_portal_listing,Bengaluru_House_Data.csv,4606
+LIST-04642,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,3.0,2.0,2.0,1275.0,4150000,3254.901960784314,observed_portal_listing,Bengaluru_House_Data.csv,4642
+LIST-04678,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,0.0,835.0,3700000,4431.137724550898,observed_portal_listing,Bengaluru_House_Data.csv,4678
+LIST-04683,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,1.0,1070.0,4800000,4485.981308411215,observed_portal_listing,Bengaluru_House_Data.csv,4683
+LIST-04690,Jayanagar,4th T block Jayanagar,Built-up Area,19-Mar,4.0,4.0,,3900.0,33300000,8538.461538461539,observed_portal_listing,Bengaluru_House_Data.csv,4690
+LIST-04718,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1300.0,8913000,6856.153846153846,observed_portal_listing,Bengaluru_House_Data.csv,4718
+LIST-04719,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1130.0,7300000,6460.1769911504425,observed_portal_listing,Bengaluru_House_Data.csv,4719
+LIST-04884,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1062.0,4247000,3999.0583804143125,observed_portal_listing,Bengaluru_House_Data.csv,4884
+LIST-04901,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1450.0,10000000,6896.551724137931,observed_portal_listing,Bengaluru_House_Data.csv,4901
+LIST-04949,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1350.0,5800000,4296.2962962962965,observed_portal_listing,Bengaluru_House_Data.csv,4949
+LIST-04966,JP Nagar,4th Phase JP Nagar,Plot Area,Ready To Move,5.0,5.0,1.0,2250.0,36000000,16000.0,observed_portal_listing,Bengaluru_House_Data.csv,4966
+LIST-04992,Jayanagar,1st Block Jayanagar,Super built-up Area,Ready To Move,2.0,3.0,2.0,1000.0,6000000,6000.0,observed_portal_listing,Bengaluru_House_Data.csv,4992
+LIST-05008,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Jul,2.0,2.0,2.0,1050.0,3900000,3714.285714285714,observed_portal_listing,Bengaluru_House_Data.csv,5008
+LIST-05009,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,2.0,2.0,2.0,1200.0,20000000,16666.666666666668,observed_portal_listing,Bengaluru_House_Data.csv,5009
+LIST-05011,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,5.0,5.0,,2500.0,11000000,4400.0,observed_portal_listing,Bengaluru_House_Data.csv,5011
+LIST-05016,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,9.0,8.0,,1200.0,22500000,18750.0,observed_portal_listing,Bengaluru_House_Data.csv,5016
+LIST-05043,Jayanagar,2nd Block Jayanagar,Plot Area,18-Feb,6.0,6.0,,825.0,40000000,48484.84848484849,observed_portal_listing,Bengaluru_House_Data.csv,5043
+LIST-05065,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,5000000,4761.9047619047615,observed_portal_listing,Bengaluru_House_Data.csv,5065
+LIST-05074,BTM Layout,BTM 2nd Stage,Built-up Area,Ready To Move,2.0,2.0,2.0,1280.0,8000000,6250.0,observed_portal_listing,Bengaluru_House_Data.csv,5074
+LIST-05116,Jayanagar,1st Block Jayanagar,Plot Area,Ready To Move,7.0,4.0,2.0,930.0,8500000,9139.78494623656,observed_portal_listing,Bengaluru_House_Data.csv,5116
+LIST-05123,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,4.0,3.0,3300.0,16000000,4848.484848484848,observed_portal_listing,Bengaluru_House_Data.csv,5123
+LIST-05171,BTM Layout,BTM 2nd Stage,Built-up Area,Ready To Move,2.0,2.0,2.0,1100.0,7000000,6363.636363636364,observed_portal_listing,Bengaluru_House_Data.csv,5171
+LIST-05201,JP Nagar,3rd Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1550.0,7900000,5096.774193548387,observed_portal_listing,Bengaluru_House_Data.csv,5201
+LIST-05208,Jayanagar,Jayanagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1036.0,11000000,10617.760617760618,observed_portal_listing,Bengaluru_House_Data.csv,5208
+LIST-05215,JP Nagar,4th Phase JP Nagar,Super built-up Area,18-Aug,2.0,2.0,2.0,1070.0,3890000,3635.5140186915887,observed_portal_listing,Bengaluru_House_Data.csv,5215
+LIST-05242,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1275.0,8700000,6823.529411764706,observed_portal_listing,Bengaluru_House_Data.csv,5242
+LIST-05243,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,1.0,1460.0,7000000,4794.520547945205,observed_portal_listing,Bengaluru_House_Data.csv,5243
+LIST-05250,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,0.0,660.0,2700000,4090.909090909091,observed_portal_listing,Bengaluru_House_Data.csv,5250
+LIST-05252,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,4.0,5.0,2.0,1100.0,12100000,11000.0,observed_portal_listing,Bengaluru_House_Data.csv,5252
+LIST-05266,Jayanagar,8th Block Jayanagar,Plot Area,Ready To Move,2.0,2.0,0.0,2800.0,65000000,23214.285714285714,observed_portal_listing,Bengaluru_House_Data.csv,5266
+LIST-05297,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,1.0,1.0,1.0,600.0,3000000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,5297
+LIST-05318,BTM Layout,BTM Layout,Built-up Area,Ready To Move,3.0,2.0,2.0,1450.0,8100000,5586.206896551724,observed_portal_listing,Bengaluru_House_Data.csv,5318
+LIST-05320,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1650.0,11000000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,5320
+LIST-05370,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jul,1.0,1.0,1.0,500.0,3100000,6200.0,observed_portal_listing,Bengaluru_House_Data.csv,5370
+LIST-05379,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1390.0,6500000,4676.258992805755,observed_portal_listing,Bengaluru_House_Data.csv,5379
+LIST-05404,Jayanagar,4th T block Jayanagar,Plot Area,Ready To Move,4.0,4.0,2.0,2080.0,44000000,21153.846153846152,observed_portal_listing,Bengaluru_House_Data.csv,5404
+LIST-05416,BTM Layout,BTM Layout,Plot Area,Ready To Move,4.0,4.0,2.0,600.0,12200000,20333.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,5416
+LIST-05447,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1245.0,11000000,8835.341365461847,observed_portal_listing,Bengaluru_House_Data.csv,5447
+LIST-05474,Jayanagar,2nd Block Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1718.0,22300000,12980.209545983702,observed_portal_listing,Bengaluru_House_Data.csv,5474
+LIST-05494,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,1.0,1.0,0.0,600.0,2000000,3333.3333333333335,observed_portal_listing,Bengaluru_House_Data.csv,5494
+LIST-05498,JP Nagar,1st Phase JP Nagar,Super built-up Area,18-May,2.0,2.0,2.0,1077.0,9300000,8635.097493036212,observed_portal_listing,Bengaluru_House_Data.csv,5498
+LIST-05525,BTM Layout,BTM 1st Stage,Super built-up Area,Ready To Move,3.0,2.0,,1852.0,9500000,5129.589632829374,observed_portal_listing,Bengaluru_House_Data.csv,5525
+LIST-05530,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1150.0,4990000,4339.130434782609,observed_portal_listing,Bengaluru_House_Data.csv,5530
+LIST-05566,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,850.0,4200000,4941.176470588235,observed_portal_listing,Bengaluru_House_Data.csv,5566
+LIST-05576,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,11700000,6964.285714285715,observed_portal_listing,Bengaluru_House_Data.csv,5576
+LIST-05578,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1100.0,3500000,3181.818181818182,observed_portal_listing,Bengaluru_House_Data.csv,5578
+LIST-05591,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,1.0,1850.0,15000000,8108.108108108108,observed_portal_listing,Bengaluru_House_Data.csv,5591
+LIST-05616,JP Nagar,JP Nagar,Super built-up Area,18-Aug,2.0,2.0,1.0,1152.0,3456000,3000.0,observed_portal_listing,Bengaluru_House_Data.csv,5616
+LIST-05653,JP Nagar,JP Nagar,Built-up Area,18-Apr,2.0,1.0,1.0,1100.0,1500000,1363.6363636363637,observed_portal_listing,Bengaluru_House_Data.csv,5653
+LIST-05660,JP Nagar,6th Phase JP Nagar,Built-up Area,Ready To Move,1.0,1.0,1.0,600.0,7500000,12500.0,observed_portal_listing,Bengaluru_House_Data.csv,5660
+LIST-05668,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,1.0,1.0,1.0,750.0,5250000,7000.0,observed_portal_listing,Bengaluru_House_Data.csv,5668
+LIST-05712,Jayanagar,2nd Block Jayanagar,Plot Area,18-Apr,4.0,5.0,2.0,4920.0,115000000,23373.983739837397,observed_portal_listing,Bengaluru_House_Data.csv,5712
+LIST-05746,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1236.0,6133000,4961.974110032363,observed_portal_listing,Bengaluru_House_Data.csv,5746
+LIST-05760,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1200.0,7800000,6500.0,observed_portal_listing,Bengaluru_House_Data.csv,5760
+LIST-05762,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,1000.0,5800000,5800.0,observed_portal_listing,Bengaluru_House_Data.csv,5762
+LIST-05902,Jayanagar,4th Block Jayanagar,Super built-up Area,19-Dec,3.0,3.0,2.0,2005.0,24000000,11970.074812967581,observed_portal_listing,Bengaluru_House_Data.csv,5902
+LIST-05910,Jayanagar,2nd Block Jayanagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1000.0,9700000,9700.0,observed_portal_listing,Bengaluru_House_Data.csv,5910
+LIST-05917,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,,1850.0,11000000,5945.945945945946,observed_portal_listing,Bengaluru_House_Data.csv,5917
+LIST-05928,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1100.0,4500000,4090.909090909091,observed_portal_listing,Bengaluru_House_Data.csv,5928
+LIST-05942,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1197.0,4788000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,5942
+LIST-05951,JP Nagar,JP Nagar,Super built-up Area,18-Jun,3.0,3.0,2.0,1275.0,4120000,3231.372549019608,observed_portal_listing,Bengaluru_House_Data.csv,5951
+LIST-05977,JP Nagar,1st Phase JP Nagar,Built-up Area,Ready To Move,1.0,1.0,1.0,839.91,6300000,7500.803657534736,observed_portal_listing,Bengaluru_House_Data.csv,5977
+LIST-05989,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,,2040.0,20000000,9803.921568627451,observed_portal_listing,Bengaluru_House_Data.csv,5989
+LIST-06026,JP Nagar,1st Phase JP Nagar,Plot Area,Ready To Move,2.0,2.0,0.0,1566.0,18000000,11494.252873563219,observed_portal_listing,Bengaluru_House_Data.csv,6026
+LIST-06028,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1256.0,6280000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,6028
+LIST-06031,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1000.0,5300000,5300.0,observed_portal_listing,Bengaluru_House_Data.csv,6031
+LIST-06042,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,3.0,2.0,3.0,1776.0,7500000,4222.972972972973,observed_portal_listing,Bengaluru_House_Data.csv,6042
+LIST-06049,JP Nagar,JP Nagar,Built-up Area,Ready To Move,7.0,4.0,1.0,2700.0,16000000,5925.925925925926,observed_portal_listing,Bengaluru_House_Data.csv,6049
+LIST-06053,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,7.0,7.0,3.0,600.0,11000000,18333.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,6053
+LIST-06060,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,3.0,1500.0,8200000,5466.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,6060
+LIST-06072,Jayanagar,4th T block Jayanagar,Built-up Area,Ready To Move,4.0,4.0,1.0,1550.0,12000000,7741.935483870968,observed_portal_listing,Bengaluru_House_Data.csv,6072
+LIST-06082,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,12500000,7440.476190476191,observed_portal_listing,Bengaluru_House_Data.csv,6082
+LIST-06087,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,2.0,2.0,1.0,800.0,17500000,21875.0,observed_portal_listing,Bengaluru_House_Data.csv,6087
+LIST-06100,BTM Layout,BTM 4th Stage,Super built-up Area,Ready To Move,3.0,2.0,2.0,1455.0,5500000,3780.0687285223366,observed_portal_listing,Bengaluru_House_Data.csv,6100
+LIST-06122,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Mar,2.0,2.0,2.0,1466.0,7100000,4843.110504774898,observed_portal_listing,Bengaluru_House_Data.csv,6122
+LIST-06126,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,3.0,3.0,2.0,950.0,13000000,13684.21052631579,observed_portal_listing,Bengaluru_House_Data.csv,6126
+LIST-06169,Jayanagar,1st Block Jayanagar,Plot Area,Ready To Move,8.0,4.0,,700.0,10400000,14857.142857142857,observed_portal_listing,Bengaluru_House_Data.csv,6169
+LIST-06175,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,,1890.0,9300000,4920.6349206349205,observed_portal_listing,Bengaluru_House_Data.csv,6175
+LIST-06204,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1675.0,13500000,8059.701492537313,observed_portal_listing,Bengaluru_House_Data.csv,6204
+LIST-06211,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,3.0,3.0,2.0,1458.0,7900000,5418.38134430727,observed_portal_listing,Bengaluru_House_Data.csv,6211
+LIST-06227,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1035.0,3933000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,6227
+LIST-06228,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,4.0,4.0,3.0,2100.0,9200000,4380.952380952381,observed_portal_listing,Bengaluru_House_Data.csv,6228
+LIST-06286,Jayanagar,8th Block Jayanagar,Super built-up Area,18-May,2.0,2.0,2.0,1100.0,11000000,10000.0,observed_portal_listing,Bengaluru_House_Data.csv,6286
+LIST-06300,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1035.0,3933000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,6300
+LIST-06304,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,3.0,1.0,909.87,6934000,7620.868915339554,observed_portal_listing,Bengaluru_House_Data.csv,6304
+LIST-06318,BTM Layout,BTM Layout,Built-up Area,Ready To Move,2.0,2.0,1.0,935.0,5150000,5508.0213903743315,observed_portal_listing,Bengaluru_House_Data.csv,6318
+LIST-06348,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,909.0,4090000,4499.4499449945,observed_portal_listing,Bengaluru_House_Data.csv,6348
+LIST-06367,JP Nagar,1st Phase JP Nagar,Built-up Area,Ready To Move,1.0,2.0,2.0,840.0,5000000,5952.380952380952,observed_portal_listing,Bengaluru_House_Data.csv,6367
+LIST-06385,JP Nagar,7th Phase JP Nagar,Super built-up Area,19-Jan,2.0,2.0,1.0,1187.0,5900000,4970.513900589722,observed_portal_listing,Bengaluru_House_Data.csv,6385
+LIST-06396,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1220.0,8800000,7213.11475409836,observed_portal_listing,Bengaluru_House_Data.csv,6396
+LIST-06429,JP Nagar,JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,820.0,4500000,5487.804878048781,observed_portal_listing,Bengaluru_House_Data.csv,6429
+LIST-06466,JP Nagar,1st Phase JP Nagar,Super built-up Area,18-May,3.0,3.0,3.0,1590.0,13100000,8238.993710691824,observed_portal_listing,Bengaluru_House_Data.csv,6466
+LIST-06478,JP Nagar,9th Phase JP Nagar,Super built-up Area,21-Sep,2.0,2.0,1.0,1079.0,6000000,5560.704355885079,observed_portal_listing,Bengaluru_House_Data.csv,6478
+LIST-06530,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,2.0,2.0,1.0,1020.0,4650000,4558.823529411765,observed_portal_listing,Bengaluru_House_Data.csv,6530
+LIST-06537,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1213.0,6300000,5193.734542456719,observed_portal_listing,Bengaluru_House_Data.csv,6537
+LIST-06549,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,0.0,1000.0,4800000,4800.0,observed_portal_listing,Bengaluru_House_Data.csv,6549
+LIST-06578,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1850.0,15500000,8378.378378378378,observed_portal_listing,Bengaluru_House_Data.csv,6578
+LIST-06583,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1000.0,6100000,6100.0,observed_portal_listing,Bengaluru_House_Data.csv,6583
+LIST-06622,BTM Layout,BTM Layout 1stage 9th Main,Plot Area,Ready To Move,7.0,6.0,2.0,600.0,13800000,23000.0,observed_portal_listing,Bengaluru_House_Data.csv,6622
+LIST-06703,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1350.0,7500000,5555.555555555556,observed_portal_listing,Bengaluru_House_Data.csv,6703
+LIST-06713,JP Nagar,9th Phase JP Nagar,Super built-up Area,21-Sep,2.0,2.0,1.0,1480.0,8000000,5405.405405405405,observed_portal_listing,Bengaluru_House_Data.csv,6713
+LIST-06724,JP Nagar,JP Nagar,Super built-up Area,19-Dec,3.0,3.0,1.0,1750.0,12300000,7028.571428571428,observed_portal_listing,Bengaluru_House_Data.csv,6724
+LIST-06770,JP Nagar,8th Phase JP Nagar,Super built-up Area,19-Mar,3.0,3.0,0.0,1431.5,7202000,5031.086273140063,observed_portal_listing,Bengaluru_House_Data.csv,6770
+LIST-06785,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,3.0,4.0,1.0,1900.0,9000000,4736.8421052631575,observed_portal_listing,Bengaluru_House_Data.csv,6785
+LIST-06810,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1460.0,10000000,6849.315068493151,observed_portal_listing,Bengaluru_House_Data.csv,6810
+LIST-06822,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,3.0,3.0,2.0,1600.0,11200000,7000.0,observed_portal_listing,Bengaluru_House_Data.csv,6822
+LIST-06847,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1650.0,11000000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,6847
+LIST-06874,JP Nagar,JP Nagar,Super built-up Area,18-Mar,3.0,,,2195.0,15200000,6924.829157175399,observed_portal_listing,Bengaluru_House_Data.csv,6874
+LIST-06955,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,2.0,1.0,1452.0,4100000,2823.6914600550963,observed_portal_listing,Bengaluru_House_Data.csv,6955
+LIST-07003,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1200.0,6250000,5208.333333333333,observed_portal_listing,Bengaluru_House_Data.csv,7003
+LIST-07094,JP Nagar,2nd Phase JP Nagar,Plot Area,Ready To Move,8.0,8.0,2.0,1350.0,18500000,13703.703703703704,observed_portal_listing,Bengaluru_House_Data.csv,7094
+LIST-07107,JP Nagar,6th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,3.0,600.0,12500000,20833.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,7107
+LIST-07112,JP Nagar,2nd Phase JP Nagar,Plot Area,Ready To Move,3.0,3.0,1.0,1200.0,19000000,15833.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,7112
+LIST-07128,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,5.0,5.0,3.0,2990.0,41600000,13913.04347826087,observed_portal_listing,Bengaluru_House_Data.csv,7128
+LIST-07139,Jayanagar,1st Block Jayanagar,Built-up Area,15-Dec,3.0,2.0,0.0,1200.0,13000000,10833.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,7139
+LIST-07160,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,1.0,1.0,1.0,552.0,2350000,4257.246376811594,observed_portal_listing,Bengaluru_House_Data.csv,7160
+LIST-07182,JP Nagar,JP Nagar,Super built-up Area,18-Jun,3.0,2.0,2.0,1275.0,4360000,3419.607843137255,observed_portal_listing,Bengaluru_House_Data.csv,7182
+LIST-07206,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1000.0,7065000,7065.0,observed_portal_listing,Bengaluru_House_Data.csv,7206
+LIST-07241,Jayanagar,4th Block Jayanagar,Super built-up Area,Ready To Move,3.0,2.0,0.0,1567.2,19000000,12123.532414497193,observed_portal_listing,Bengaluru_House_Data.csv,7241
+LIST-07245,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,1.0,1200.0,14000000,11666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,7245
+LIST-07259,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1200.0,5100000,4250.0,observed_portal_listing,Bengaluru_House_Data.csv,7259
+LIST-07266,JP Nagar,7th Phase JP Nagar,Super built-up Area,18-Aug,2.0,2.0,2.0,1070.0,4200000,3925.233644859813,observed_portal_listing,Bengaluru_House_Data.csv,7266
+LIST-07295,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1240.0,6000000,4838.709677419355,observed_portal_listing,Bengaluru_House_Data.csv,7295
+LIST-07298,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jul,1.0,1.0,1.0,500.0,3000000,6000.0,observed_portal_listing,Bengaluru_House_Data.csv,7298
+LIST-07321,JP Nagar,"2nd phase jp nagar, jp nagar",Plot Area,Ready To Move,3.0,3.0,1.0,1200.0,20500000,17083.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,7321
+LIST-07357,Jayanagar,4th T block Jayanagar,Plot Area,Ready To Move,4.0,4.0,2.0,2400.0,48000000,20000.0,observed_portal_listing,Bengaluru_House_Data.csv,7357
+LIST-07359,Jayanagar,1st Block Jayanagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1235.0,14800000,11983.805668016194,observed_portal_listing,Bengaluru_House_Data.csv,7359
+LIST-07384,Jayanagar,1st Block Jayanagar,Super built-up Area,20-May,4.0,4.0,0.0,2750.0,41300000,15018.181818181818,observed_portal_listing,Bengaluru_House_Data.csv,7384
+LIST-07399,JP Nagar,JP Nagar,Super built-up Area,18-Dec,3.0,,,3496.5,23750000,6792.506792506792,observed_portal_listing,Bengaluru_House_Data.csv,7399
+LIST-07415,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,1265.0,5500000,4347.826086956522,observed_portal_listing,Bengaluru_House_Data.csv,7415
+LIST-07417,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2180.0,21000000,9633.02752293578,observed_portal_listing,Bengaluru_House_Data.csv,7417
+LIST-07424,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,,1350.0,5800000,4296.2962962962965,observed_portal_listing,Bengaluru_House_Data.csv,7424
+LIST-07435,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1080.0,7500000,6944.444444444444,observed_portal_listing,Bengaluru_House_Data.csv,7435
+LIST-07522,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1170.0,12000000,10256.410256410256,observed_portal_listing,Bengaluru_House_Data.csv,7522
+LIST-07533,BTM Layout,BTM Layout,Built-up Area,Ready To Move,3.0,2.0,1.0,1300.0,7500000,5769.2307692307695,observed_portal_listing,Bengaluru_House_Data.csv,7533
+LIST-07534,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1600.0,8300000,5187.5,observed_portal_listing,Bengaluru_House_Data.csv,7534
+LIST-07539,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,3.0,3.0,3.0,2200.0,22000000,10000.0,observed_portal_listing,Bengaluru_House_Data.csv,7539
+LIST-07577,JP Nagar,"Annapoorneshwari Layout, JP nagar 7th phase",Plot Area,Ready To Move,3.0,3.0,1.0,600.0,7000000,11666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,7577
+LIST-07604,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2100.0,20000000,9523.809523809523,observed_portal_listing,Bengaluru_House_Data.csv,7604
+LIST-07607,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,1.0,1415.0,6500000,4593.639575971732,observed_portal_listing,Bengaluru_House_Data.csv,7607
+LIST-07610,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1680.0,12500000,7440.476190476191,observed_portal_listing,Bengaluru_House_Data.csv,7610
+LIST-07662,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1040.0,4159000,3999.0384615384614,observed_portal_listing,Bengaluru_House_Data.csv,7662
+LIST-07663,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1125.0,3694000,3283.5555555555557,observed_portal_listing,Bengaluru_House_Data.csv,7663
+LIST-07671,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,4.0,3.0,2.0,1200.0,11000000,9166.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,7671
+LIST-07693,JP Nagar,2nd Phase JP Nagar,Plot Area,Ready To Move,6.0,6.0,3.0,900.0,17000000,18888.88888888889,observed_portal_listing,Bengaluru_House_Data.csv,7693
+LIST-07704,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,5.0,6.0,3.0,1800.0,27000000,15000.0,observed_portal_listing,Bengaluru_House_Data.csv,7704
+LIST-07724,JP Nagar,JP Nagar,Built-up Area,Ready To Move,4.0,3.0,2.0,3000.0,15000000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,7724
+LIST-07747,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1100.0,3500000,3181.818181818182,observed_portal_listing,Bengaluru_House_Data.csv,7747
+LIST-07765,Jayanagar,7th Block Jayanagar,Plot Area,Ready To Move,4.0,3.0,2.0,2400.0,48000000,20000.0,observed_portal_listing,Bengaluru_House_Data.csv,7765
+LIST-07767,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1100.0,4400000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,7767
+LIST-07784,Jayanagar,6th Block Jayanagar,Super built-up Area,Ready To Move,3.0,4.0,2.0,2100.0,25500000,12142.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,7784
+LIST-07871,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1460.0,9700000,6643.835616438356,observed_portal_listing,Bengaluru_House_Data.csv,7871
+LIST-07881,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,3.0,4.0,1.0,2780.0,32500000,11690.647482014389,observed_portal_listing,Bengaluru_House_Data.csv,7881
+LIST-07918,BTM Layout,BTM Layout 2nd Stage 1st Phase,Plot Area,Ready To Move,4.0,5.0,2.0,2400.0,39500000,16458.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,7918
+LIST-07930,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1089.0,4355000,3999.0817263544536,observed_portal_listing,Bengaluru_House_Data.csv,7930
+LIST-07948,JP Nagar,JP Nagar,Plot Area,Ready To Move,3.0,3.0,,20000.0,17500000,875.0,observed_portal_listing,Bengaluru_House_Data.csv,7948
+LIST-07988,BTM Layout,BTM Layout,Built-up Area,Ready To Move,3.0,2.0,2.0,1540.0,7800000,5064.935064935065,observed_portal_listing,Bengaluru_House_Data.csv,7988
+LIST-07989,JP Nagar,"JP Nagar 7th Phase,",Built-up Area,Ready To Move,3.0,2.0,2.0,1503.0,9300000,6187.624750499002,observed_portal_listing,Bengaluru_House_Data.csv,7989
+LIST-08087,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1120.0,6500000,5803.571428571428,observed_portal_listing,Bengaluru_House_Data.csv,8087
+LIST-08127,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,5.0,5.0,,1200.0,16000000,13333.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,8127
+LIST-08137,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,3.0,1.0,1100.0,6000000,5454.545454545455,observed_portal_listing,Bengaluru_House_Data.csv,8137
+LIST-08155,Jayanagar,9th Block Jayanagar,Plot Area,Ready To Move,9.0,8.0,3.0,1200.0,27000000,22500.0,observed_portal_listing,Bengaluru_House_Data.csv,8155
+LIST-08168,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1605.0,6500000,4049.8442367601247,observed_portal_listing,Bengaluru_House_Data.csv,8168
+LIST-08189,JP Nagar,6th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1216.0,6000000,4934.210526315789,observed_portal_listing,Bengaluru_House_Data.csv,8189
+LIST-08234,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1790.0,12000000,6703.91061452514,observed_portal_listing,Bengaluru_House_Data.csv,8234
+LIST-08277,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,11700000,6964.285714285715,observed_portal_listing,Bengaluru_House_Data.csv,8277
+LIST-08300,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1180.0,8850000,7500.0,observed_portal_listing,Bengaluru_House_Data.csv,8300
+LIST-08331,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,7700000,7333.333333333333,observed_portal_listing,Bengaluru_House_Data.csv,8331
+LIST-08337,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,3.0,2.0,0.0,2400.0,36000000,15000.0,observed_portal_listing,Bengaluru_House_Data.csv,8337
+LIST-08411,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,,1460.0,8000000,5479.45205479452,observed_portal_listing,Bengaluru_House_Data.csv,8411
+LIST-08413,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,965.0,5600000,5803.108808290155,observed_portal_listing,Bengaluru_House_Data.csv,8413
+LIST-08434,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1174.0,4700000,4003.4071550255535,observed_portal_listing,Bengaluru_House_Data.csv,8434
+LIST-08469,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,2.0,2.0,0.0,1200.0,8000000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,8469
+LIST-08492,JP Nagar,1st Phase JP Nagar,Plot Area,Ready To Move,5.0,7.0,2.0,2200.0,35000000,15909.09090909091,observed_portal_listing,Bengaluru_House_Data.csv,8492
+LIST-08508,Jayanagar,1st Block Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,,1760.0,11500000,6534.090909090909,observed_portal_listing,Bengaluru_House_Data.csv,8508
+LIST-08525,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1504.0,8300000,5518.617021276596,observed_portal_listing,Bengaluru_House_Data.csv,8525
+LIST-08530,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,7500000,7142.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,8530
+LIST-08538,BTM Layout,BTM 4th Stage,Plot Area,Ready To Move,1.0,1.0,0.0,600.0,5800000,9666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,8538
+LIST-08546,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,1.0,1.0,0.0,375.0,4000000,10666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,8546
+LIST-08561,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1040.0,7500000,7211.538461538462,observed_portal_listing,Bengaluru_House_Data.csv,8561
+LIST-08609,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,2050.0,8200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,8609
+LIST-08626,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,,1200.0,8600000,7166.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,8626
+LIST-08680,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,905.0,3200000,3535.9116022099447,observed_portal_listing,Bengaluru_House_Data.csv,8680
+LIST-08686,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,2.0,2600.0,11500000,4423.076923076923,observed_portal_listing,Bengaluru_House_Data.csv,8686
+LIST-08743,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,1.0,1.0,0.0,745.0,3427000,4600.0,observed_portal_listing,Bengaluru_House_Data.csv,8743
+LIST-08789,JP Nagar,9th Phase JP Nagar,Super built-up Area,21-Sep,2.0,2.0,1.0,1073.0,5236000,4879.77632805219,observed_portal_listing,Bengaluru_House_Data.csv,8789
+LIST-08794,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,3.0,3.0,3.0,1550.0,7500000,4838.709677419355,observed_portal_listing,Bengaluru_House_Data.csv,8794
+LIST-08795,Jayanagar,7th Block Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1707.0,17100000,10017.574692442882,observed_portal_listing,Bengaluru_House_Data.csv,8795
+LIST-08802,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1400.0,9500000,6785.714285714285,observed_portal_listing,Bengaluru_House_Data.csv,8802
+LIST-08805,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1368.0,5471000,3999.2690058479534,observed_portal_listing,Bengaluru_House_Data.csv,8805
+LIST-08837,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,2003.0,20000000,9985.022466300548,observed_portal_listing,Bengaluru_House_Data.csv,8837
+LIST-08915,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1800.0,13000000,7222.222222222223,observed_portal_listing,Bengaluru_House_Data.csv,8915
+LIST-08926,JP Nagar,JP Nagar,Super built-up Area,18-Dec,4.0,4.0,3.0,4000.0,44100000,11025.0,observed_portal_listing,Bengaluru_House_Data.csv,8926
+LIST-08951,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1089.0,4355000,3999.0817263544536,observed_portal_listing,Bengaluru_House_Data.csv,8951
+LIST-08975,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1719.3,8800000,5118.362124120282,observed_portal_listing,Bengaluru_House_Data.csv,8975
+LIST-08980,JP Nagar,JP Nagar,Built-up Area,Ready To Move,6.0,6.0,0.0,1800.0,6800000,3777.777777777778,observed_portal_listing,Bengaluru_House_Data.csv,8980
+LIST-08983,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,0.0,1050.0,6800000,6476.190476190476,observed_portal_listing,Bengaluru_House_Data.csv,8983
+LIST-08998,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1400.0,5700000,4071.4285714285716,observed_portal_listing,Bengaluru_House_Data.csv,8998
+LIST-09002,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1485.0,6600000,4444.444444444444,observed_portal_listing,Bengaluru_House_Data.csv,9002
+LIST-09052,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,1.0,1147.0,7500000,6538.7968613775065,observed_portal_listing,Bengaluru_House_Data.csv,9052
+LIST-09118,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1030.0,5700000,5533.980582524272,observed_portal_listing,Bengaluru_House_Data.csv,9118
+LIST-09120,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1000.0,6000000,6000.0,observed_portal_listing,Bengaluru_House_Data.csv,9120
+LIST-09142,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1150.0,9000000,7826.086956521739,observed_portal_listing,Bengaluru_House_Data.csv,9142
+LIST-09193,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1200.0,6800000,5666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,9193
+LIST-09200,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,12500000,7440.476190476191,observed_portal_listing,Bengaluru_House_Data.csv,9200
+LIST-09204,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,980.0,8600000,8775.510204081633,observed_portal_listing,Bengaluru_House_Data.csv,9204
+LIST-09258,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1370.0,5479000,3999.2700729927005,observed_portal_listing,Bengaluru_House_Data.csv,9258
+LIST-09277,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1450.0,5500000,3793.103448275862,observed_portal_listing,Bengaluru_House_Data.csv,9277
+LIST-09326,JP Nagar,1st Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,2.0,1200.0,30000000,25000.0,observed_portal_listing,Bengaluru_House_Data.csv,9326
+LIST-09331,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,7747000,7378.0952380952385,observed_portal_listing,Bengaluru_House_Data.csv,9331
+LIST-09333,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1270.0,8000000,6299.212598425197,observed_portal_listing,Bengaluru_House_Data.csv,9333
+LIST-09339,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1463.0,6145000,4200.273410799727,observed_portal_listing,Bengaluru_House_Data.csv,9339
+LIST-09343,Jayanagar,1st Block Jayanagar,Built-up Area,Ready To Move,8.0,3.0,2.0,1700.0,5000000,2941.176470588235,observed_portal_listing,Bengaluru_House_Data.csv,9343
+LIST-09394,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,12200000,7261.9047619047615,observed_portal_listing,Bengaluru_House_Data.csv,9394
+LIST-09436,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Mar,3.0,3.0,2.0,1780.0,8800000,4943.820224719101,observed_portal_listing,Bengaluru_House_Data.csv,9436
+LIST-09457,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,3.0,3.0,2.0,600.0,7900000,13166.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,9457
+LIST-09513,Jayanagar,5th Block Jayanagar,Built-up Area,Ready To Move,1.0,1.0,1.0,1500.0,30000000,20000.0,observed_portal_listing,Bengaluru_House_Data.csv,9513
+LIST-09519,Jayanagar,"Jayanagar,",Super built-up Area,Ready To Move,3.0,3.0,2.0,1903.0,16500000,8670.520231213874,observed_portal_listing,Bengaluru_House_Data.csv,9519
+LIST-09537,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,1.0,1.0,0.0,500.0,7000000,14000.0,observed_portal_listing,Bengaluru_House_Data.csv,9537
+LIST-09610,JP Nagar,JP Nagar,Super built-up Area,19-Dec,3.0,3.0,1.0,1960.0,13800000,7040.816326530612,observed_portal_listing,Bengaluru_House_Data.csv,9610
+LIST-09616,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,0.0,1800.0,23000000,12777.777777777777,observed_portal_listing,Bengaluru_House_Data.csv,9616
+LIST-09630,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,1.0,1.0,1.0,450.0,2000000,4444.444444444444,observed_portal_listing,Bengaluru_House_Data.csv,9630
+LIST-09637,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,6.0,6.0,2.0,650.0,8000000,12307.692307692309,observed_portal_listing,Bengaluru_House_Data.csv,9637
+LIST-09641,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,6.0,6.0,1.0,1200.0,26000000,21666.666666666668,observed_portal_listing,Bengaluru_House_Data.csv,9641
+LIST-09642,Jayanagar,7th Block Jayanagar,Plot Area,Ready To Move,3.0,3.0,0.0,2400.0,40800000,17000.0,observed_portal_listing,Bengaluru_House_Data.csv,9642
+LIST-09655,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1070.0,4279000,3999.0654205607475,observed_portal_listing,Bengaluru_House_Data.csv,9655
+LIST-09690,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,3.0,3.0,2.0,600.0,8500000,14166.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,9690
+LIST-09724,JP Nagar,JP Nagar,Built-up Area,Ready To Move,4.0,2.0,0.0,1500.0,8700000,5800.0,observed_portal_listing,Bengaluru_House_Data.csv,9724
+LIST-09766,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1130.0,8500000,7522.123893805309,observed_portal_listing,Bengaluru_House_Data.csv,9766
+LIST-09775,Jayanagar,5th Block Jayanagar,Plot Area,Ready To Move,3.0,2.0,1.0,500.0,7500000,15000.0,observed_portal_listing,Bengaluru_House_Data.csv,9775
+LIST-09783,JP Nagar,2nd Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1040.0,7800000,7500.0,observed_portal_listing,Bengaluru_House_Data.csv,9783
+LIST-09787,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1224.0,4895000,3999.1830065359477,observed_portal_listing,Bengaluru_House_Data.csv,9787
+LIST-09804,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,7.0,7.0,3.0,820.0,14000000,17073.170731707316,observed_portal_listing,Bengaluru_House_Data.csv,9804
+LIST-09833,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1680.0,13000000,7738.0952380952385,observed_portal_listing,Bengaluru_House_Data.csv,9833
+LIST-09861,Jayanagar,8th Block Jayanagar,Built-up Area,Ready To Move,6.0,6.0,3.0,2000.0,30000000,15000.0,observed_portal_listing,Bengaluru_House_Data.csv,9861
+LIST-09863,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,6.0,6.0,2.0,600.0,7500000,12500.0,observed_portal_listing,Bengaluru_House_Data.csv,9863
+LIST-09868,JP Nagar,7th Phase JP Nagar,Super built-up Area,18-Jul,3.0,3.0,2.0,2000.0,7700000,3850.0,observed_portal_listing,Bengaluru_House_Data.csv,9868
+LIST-09883,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1300.0,5800000,4461.538461538462,observed_portal_listing,Bengaluru_House_Data.csv,9883
+LIST-09898,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1300.0,5200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,9898
+LIST-09933,JP Nagar,9th Phase JP Nagar,Super built-up Area,21-Sep,3.0,3.0,2.0,1522.0,9000000,5913.272010512484,observed_portal_listing,Bengaluru_House_Data.csv,9933
+LIST-10005,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,4.0,2.0,2980.0,26000000,8724.832214765102,observed_portal_listing,Bengaluru_House_Data.csv,10005
+LIST-10015,BTM Layout,BTM Layout,Built-up Area,Ready To Move,3.0,3.0,2.0,2400.0,22000000,9166.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,10015
+LIST-10028,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1513.0,6200000,4097.818902842036,observed_portal_listing,Bengaluru_House_Data.csv,10028
+LIST-10074,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,980.0,7744000,7902.040816326531,observed_portal_listing,Bengaluru_House_Data.csv,10074
+LIST-10102,Jayanagar,9th Block Jayanagar,Plot Area,Ready To Move,6.0,5.0,1.0,1200.0,28000000,23333.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,10102
+LIST-10153,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,2.0,3.0,1590.0,8500000,5345.911949685535,observed_portal_listing,Bengaluru_House_Data.csv,10153
+LIST-10225,JP Nagar,1st Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1394.0,8500000,6097.5609756097565,observed_portal_listing,Bengaluru_House_Data.csv,10225
+LIST-10242,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1298.0,5900000,4545.454545454545,observed_portal_listing,Bengaluru_House_Data.csv,10242
+LIST-10254,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1680.0,11200000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,10254
+LIST-10290,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,0.0,1006.0,4400000,4373.75745526839,observed_portal_listing,Bengaluru_House_Data.csv,10290
+LIST-10305,Jayanagar,5th Block Jayanagar,Plot Area,Ready To Move,4.0,4.0,2.0,10624.0,234000000,22025.602409638555,observed_portal_listing,Bengaluru_House_Data.csv,10305
+LIST-10321,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,4.0,3.0,2.0,2400.0,40000000,16666.666666666668,observed_portal_listing,Bengaluru_House_Data.csv,10321
+LIST-10324,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1571.0,6500000,4137.492043284532,observed_portal_listing,Bengaluru_House_Data.csv,10324
+LIST-10347,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1250.0,6000000,4800.0,observed_portal_listing,Bengaluru_House_Data.csv,10347
+LIST-10364,JP Nagar,JP Nagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1125.0,3998000,3553.777777777778,observed_portal_listing,Bengaluru_House_Data.csv,10364
+LIST-10366,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1515.0,7600000,5016.501650165016,observed_portal_listing,Bengaluru_House_Data.csv,10366
+LIST-10381,Jayanagar,Jayanagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,2030.0,18200000,8965.51724137931,observed_portal_listing,Bengaluru_House_Data.csv,10381
+LIST-10467,JP Nagar,8th Phase JP Nagar,Carpet Area,18-Jul,1.0,1.0,1.0,500.0,3300000,6600.0,observed_portal_listing,Bengaluru_House_Data.csv,10467
+LIST-10526,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2095.0,15000000,7159.904534606205,observed_portal_listing,Bengaluru_House_Data.csv,10526
+LIST-10535,JP Nagar,1st Phase JP Nagar,Super built-up Area,18-May,3.0,3.0,3.0,2077.0,17500000,8425.613866153106,observed_portal_listing,Bengaluru_House_Data.csv,10535
+LIST-10545,Jayanagar,9th Block Jayanagar,Plot Area,Ready To Move,4.0,5.0,2.0,1000.0,20000000,20000.0,observed_portal_listing,Bengaluru_House_Data.csv,10545
+LIST-10549,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,2.0,1900.0,8000000,4210.526315789473,observed_portal_listing,Bengaluru_House_Data.csv,10549
+LIST-10555,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,4.0,2.0,1.0,4550.0,24000000,5274.725274725275,observed_portal_listing,Bengaluru_House_Data.csv,10555
+LIST-10559,JP Nagar,6th Phase JP Nagar,Super built-up Area,18-Aug,3.0,3.0,3.0,1250.0,4890000,3912.0,observed_portal_listing,Bengaluru_House_Data.csv,10559
+LIST-10601,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,1810.0,13100000,7237.5690607734805,observed_portal_listing,Bengaluru_House_Data.csv,10601
+LIST-10622,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1160.0,9500000,8189.6551724137935,observed_portal_listing,Bengaluru_House_Data.csv,10622
+LIST-10639,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,890.0,4500000,5056.179775280899,observed_portal_listing,Bengaluru_House_Data.csv,10639
+LIST-10658,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1370.0,5479000,3999.2700729927005,observed_portal_listing,Bengaluru_House_Data.csv,10658
+LIST-10662,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,2.0,3200.0,35000000,10937.5,observed_portal_listing,Bengaluru_House_Data.csv,10662
+LIST-10668,JP Nagar,7th Phase JP Nagar,Super built-up Area,19-Dec,3.0,3.0,1.0,1976.0,14500000,7338.056680161943,observed_portal_listing,Bengaluru_House_Data.csv,10668
+LIST-10726,JP Nagar,JP Nagar,Carpet Area,Ready To Move,3.0,3.0,3.0,2400.0,19600000,8166.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,10726
+LIST-10739,JP Nagar,JP Nagar,Super built-up Area,18-Jun,2.0,2.0,2.0,1060.0,3395000,3202.830188679245,observed_portal_listing,Bengaluru_House_Data.csv,10739
+LIST-10768,JP Nagar,JP Nagar,Super built-up Area,19-Dec,2.0,2.0,1.0,1300.0,9165000,7050.0,observed_portal_listing,Bengaluru_House_Data.csv,10768
+LIST-10815,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1205.0,8500000,7053.941908713693,observed_portal_listing,Bengaluru_House_Data.csv,10815
+LIST-10819,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Jun,3.0,2.0,2.0,1240.0,3989000,3216.935483870968,observed_portal_listing,Bengaluru_House_Data.csv,10819
+LIST-10827,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1600.0,11000000,6875.0,observed_portal_listing,Bengaluru_House_Data.csv,10827
+LIST-10839,JP Nagar,6th Phase JP Nagar,Built-up Area,Ready To Move,1.0,1.0,1.0,750.0,10500000,14000.0,observed_portal_listing,Bengaluru_House_Data.csv,10839
+LIST-10901,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1765.0,11800000,6685.552407932011,observed_portal_listing,Bengaluru_House_Data.csv,10901
+LIST-10914,JP Nagar,3rd Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,1.0,2400.0,27000000,11250.0,observed_portal_listing,Bengaluru_House_Data.csv,10914
+LIST-10916,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1190.0,6180000,5193.27731092437,observed_portal_listing,Bengaluru_House_Data.csv,10916
+LIST-10971,JP Nagar,2nd Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,850.0,4250000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,10971
+LIST-10973,Jayanagar,1st Block Jayanagar,Super built-up Area,20-May,4.0,4.0,2.0,2450.0,36800000,15020.408163265307,observed_portal_listing,Bengaluru_House_Data.csv,10973
+LIST-10989,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1515.0,13500000,8910.89108910891,observed_portal_listing,Bengaluru_House_Data.csv,10989
+LIST-10991,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1107.0,5700000,5149.051490514905,observed_portal_listing,Bengaluru_House_Data.csv,10991
+LIST-11006,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Mar,2.0,2.0,1.0,1245.0,5900000,4738.955823293173,observed_portal_listing,Bengaluru_House_Data.csv,11006
+LIST-11017,JP Nagar,Jaraganahalli Jp Nagar Post,Plot Area,Ready To Move,4.0,4.0,3.0,600.0,6500000,10833.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,11017
+LIST-11023,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,2.0,1275.0,8800000,6901.9607843137255,observed_portal_listing,Bengaluru_House_Data.csv,11023
+LIST-11031,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,5.0,5.0,2.0,4000.0,17000000,4250.0,observed_portal_listing,Bengaluru_House_Data.csv,11031
+LIST-11096,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1250.0,9300000,7440.0,observed_portal_listing,Bengaluru_House_Data.csv,11096
+LIST-11148,JP Nagar,3rd Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,3.0,4500.0,34500000,7666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,11148
+LIST-11182,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1450.0,10200000,7034.482758620689,observed_portal_listing,Bengaluru_House_Data.csv,11182
+LIST-11210,BTM Layout,BTM 2nd Stage,Built-up Area,Ready To Move,3.0,3.0,3.0,1750.0,17200000,9828.57142857143,observed_portal_listing,Bengaluru_House_Data.csv,11210
+LIST-11240,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1035.0,3933000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,11240
+LIST-11245,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,6.0,6.0,2.0,600.0,8000000,13333.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,11245
+LIST-11339,JP Nagar,9th Phase JP Nagar,Plot Area,Ready To Move,8.0,8.0,,1200.0,13500000,11250.0,observed_portal_listing,Bengaluru_House_Data.csv,11339
+LIST-11355,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1080.0,5300000,4907.407407407408,observed_portal_listing,Bengaluru_House_Data.csv,11355
+LIST-11409,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,4.0,4.0,,5000.0,30000000,6000.0,observed_portal_listing,Bengaluru_House_Data.csv,11409
+LIST-11410,Jayanagar,3rd Block Jayanagar,Built-up Area,Ready To Move,3.0,3.0,3.0,2150.0,24000000,11162.790697674418,observed_portal_listing,Bengaluru_House_Data.csv,11410
+LIST-11439,JP Nagar,JP Nagar,Super built-up Area,18-Aug,2.0,2.0,1.0,1133.0,3399000,3000.0,observed_portal_listing,Bengaluru_House_Data.csv,11439
+LIST-11466,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1575.0,11000000,6984.126984126984,observed_portal_listing,Bengaluru_House_Data.csv,11466
+LIST-11478,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Jun,3.0,2.0,2.0,1240.0,4285000,3455.6451612903224,observed_portal_listing,Bengaluru_House_Data.csv,11478
+LIST-11494,JP Nagar,1st Phase JP Nagar,Built-up Area,Ready To Move,4.0,3.0,1.0,1900.0,40000000,21052.63157894737,observed_portal_listing,Bengaluru_House_Data.csv,11494
+LIST-11495,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1510.0,8000000,5298.013245033113,observed_portal_listing,Bengaluru_House_Data.csv,11495
+LIST-11508,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,3300.0,16500000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,11508
+LIST-11516,BTM Layout,BTM 1st Stage,Super built-up Area,Ready To Move,3.0,3.0,2.0,1717.0,20000000,11648.223645894,observed_portal_listing,Bengaluru_House_Data.csv,11516
+LIST-11517,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2100.0,20000000,9523.809523809523,observed_portal_listing,Bengaluru_House_Data.csv,11517
+LIST-11522,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1041.0,5400000,5187.319884726225,observed_portal_listing,Bengaluru_House_Data.csv,11522
+LIST-11549,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,2.0,1200.0,27000000,22500.0,observed_portal_listing,Bengaluru_House_Data.csv,11549
+LIST-11553,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,3.0,1400.0,9000000,6428.571428571428,observed_portal_listing,Bengaluru_House_Data.csv,11553
+LIST-11602,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,3.0,1192.0,7500000,6291.946308724832,observed_portal_listing,Bengaluru_House_Data.csv,11602
+LIST-11607,BTM Layout,BTM 4th Stage,Plot Area,Ready To Move,2.0,2.0,0.0,1350.0,9000000,6666.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,11607
+LIST-11649,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,4.0,5.0,3.0,3200.0,30900000,9656.25,observed_portal_listing,Bengaluru_House_Data.csv,11649
+LIST-11664,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,3.0,2.0,1.0,1075.0,5700000,5302.325581395349,observed_portal_listing,Bengaluru_House_Data.csv,11664
+LIST-11701,JP Nagar,4th Phase JP Nagar,Super built-up Area,18-Aug,2.0,2.0,2.0,1080.0,3800000,3518.5185185185187,observed_portal_listing,Bengaluru_House_Data.csv,11701
+LIST-11707,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,1.0,1.0,2.0,750.0,4700000,6266.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,11707
+LIST-11747,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1050.0,4200000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,11747
+LIST-11756,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,1200.0,7000000,5833.333333333333,observed_portal_listing,Bengaluru_House_Data.csv,11756
+LIST-11784,JP Nagar,8th Phase JP Nagar,Built-up Area,Ready To Move,5.0,5.0,2.0,1730.0,7500000,4335.260115606937,observed_portal_listing,Bengaluru_House_Data.csv,11784
+LIST-11815,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,812.0,4200000,5172.413793103448,observed_portal_listing,Bengaluru_House_Data.csv,11815
+LIST-11821,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1296.0,5183000,3999.2283950617284,observed_portal_listing,Bengaluru_House_Data.csv,11821
+LIST-11848,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1500.0,10800000,7200.0,observed_portal_listing,Bengaluru_House_Data.csv,11848
+LIST-11867,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,990.0,5000000,5050.50505050505,observed_portal_listing,Bengaluru_House_Data.csv,11867
+LIST-11969,JP Nagar,JP Nagar,Built-up Area,Ready To Move,3.0,3.0,2.0,1520.0,12500000,8223.684210526315,observed_portal_listing,Bengaluru_House_Data.csv,11969
+LIST-12007,Jayanagar,Jayanagar,Super built-up Area,18-May,3.0,3.0,2.0,2240.0,30000000,13392.857142857143,observed_portal_listing,Bengaluru_House_Data.csv,12007
+LIST-12012,JP Nagar,9th Phase JP Nagar,Built-up Area,Ready To Move,8.0,8.0,,800.0,14000000,17500.0,observed_portal_listing,Bengaluru_House_Data.csv,12012
+LIST-12045,JP Nagar,5th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,2.0,1010.0,5700000,5643.564356435643,observed_portal_listing,Bengaluru_House_Data.csv,12045
+LIST-12050,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,4.0,5.0,3.0,2615.0,22200000,8489.483747609942,observed_portal_listing,Bengaluru_House_Data.csv,12050
+LIST-12053,JP Nagar,7th Phase JP Nagar,Plot Area,Ready To Move,1.0,1.0,1.0,1000.0,6000000,6000.0,observed_portal_listing,Bengaluru_House_Data.csv,12053
+LIST-12071,Jayanagar,9th Block Jayanagar,Plot Area,Ready To Move,4.0,4.0,1.0,1440.0,24000000,16666.666666666668,observed_portal_listing,Bengaluru_House_Data.csv,12071
+LIST-12076,JP Nagar,4th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,4.0,1.0,600.0,7000000,11666.666666666666,observed_portal_listing,Bengaluru_House_Data.csv,12076
+LIST-12141,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,2.0,2.0,2.0,1196.0,5681000,4750.0,observed_portal_listing,Bengaluru_House_Data.csv,12141
+LIST-12187,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1080.0,5100000,4722.222222222223,observed_portal_listing,Bengaluru_House_Data.csv,12187
+LIST-12195,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,2.0,1450.0,7300000,5034.482758620689,observed_portal_listing,Bengaluru_House_Data.csv,12195
+LIST-12208,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,1100.0,4700000,4272.727272727273,observed_portal_listing,Bengaluru_House_Data.csv,12208
+LIST-12210,Jayanagar,4th Block Jayanagar,Plot Area,Ready To Move,7.0,4.0,1.0,2240.0,70000000,31250.0,observed_portal_listing,Bengaluru_House_Data.csv,12210
+LIST-12236,Jayanagar,4th T block Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,3.0,2100.0,22000000,10476.190476190477,observed_portal_listing,Bengaluru_House_Data.csv,12236
+LIST-12301,JP Nagar,2nd Phase JP Nagar,Super built-up Area,18-Aug,2.0,2.0,2.0,1070.0,3800000,3551.4018691588785,observed_portal_listing,Bengaluru_House_Data.csv,12301
+LIST-12312,JP Nagar,JP Nagar,Super built-up Area,19-Dec,2.0,2.0,1.0,1405.0,9900000,7046.26334519573,observed_portal_listing,Bengaluru_House_Data.csv,12312
+LIST-12361,JP Nagar,5th Phase JP Nagar,Plot Area,Ready To Move,8.0,7.0,3.0,1200.0,25000000,20833.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,12361
+LIST-12396,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,3.0,1680.0,9200000,5476.190476190476,observed_portal_listing,Bengaluru_House_Data.csv,12396
+LIST-12414,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,7.0,8.0,3.0,2500.0,9500000,3800.0,observed_portal_listing,Bengaluru_House_Data.csv,12414
+LIST-12418,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Apr,3.0,3.0,2.0,1275.0,4500000,3529.4117647058824,observed_portal_listing,Bengaluru_House_Data.csv,12418
+LIST-12420,BTM Layout,BTM Layout,Super built-up Area,Ready To Move,3.0,2.0,2.0,1470.0,9900000,6734.693877551021,observed_portal_listing,Bengaluru_House_Data.csv,12420
+LIST-12521,BTM Layout,BTM 2nd Stage,Plot Area,Ready To Move,8.0,6.0,0.0,1500.0,27000000,18000.0,observed_portal_listing,Bengaluru_House_Data.csv,12521
+LIST-12531,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1100.0,4400000,4000.0,observed_portal_listing,Bengaluru_House_Data.csv,12531
+LIST-12539,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,1.0,1430.0,10200000,7132.867132867133,observed_portal_listing,Bengaluru_House_Data.csv,12539
+LIST-12548,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,2.0,2.0,2.0,930.0,4600000,4946.236559139785,observed_portal_listing,Bengaluru_House_Data.csv,12548
+LIST-12600,JP Nagar,"JP Nagar 8th Phase,",Super built-up Area,Ready To Move,4.0,5.0,,5000.0,25000000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,12600
+LIST-12645,Jayanagar,4th T block Jayanagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2400.0,18500000,7708.333333333333,observed_portal_listing,Bengaluru_House_Data.csv,12645
+LIST-12691,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,3.0,2.0,3.0,1265.0,5500000,4347.826086956522,observed_portal_listing,Bengaluru_House_Data.csv,12691
+LIST-12696,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1128.0,6000000,5319.148936170212,observed_portal_listing,Bengaluru_House_Data.csv,12696
+LIST-12713,BTM Layout,BTM 2nd Stage,Super built-up Area,Ready To Move,3.0,3.0,2.0,2500.0,34500000,13800.0,observed_portal_listing,Bengaluru_House_Data.csv,12713
+LIST-12715,JP Nagar,6th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1280.0,8800000,6875.0,observed_portal_listing,Bengaluru_House_Data.csv,12715
+LIST-12731,JP Nagar,8th Phase JP Nagar,Super built-up Area,18-Jun,2.0,2.0,1.0,1046.0,4800000,4588.910133843212,observed_portal_listing,Bengaluru_House_Data.csv,12731
+LIST-12852,JP Nagar,5th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1075.0,6000000,5581.395348837209,observed_portal_listing,Bengaluru_House_Data.csv,12852
+LIST-12861,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1157.0,7300000,6309.420916162489,observed_portal_listing,Bengaluru_House_Data.csv,12861
+LIST-12871,JP Nagar,9th Phase JP Nagar,Super built-up Area,18-Mar,2.0,2.0,2.0,1050.0,3500000,3333.3333333333335,observed_portal_listing,Bengaluru_House_Data.csv,12871
+LIST-12872,JP Nagar,JP Nagar,Plot Area,Ready To Move,4.0,5.0,,600.0,11000000,18333.333333333332,observed_portal_listing,Bengaluru_House_Data.csv,12872
+LIST-12931,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,3.0,1269.0,5075000,3999.211977935382,observed_portal_listing,Bengaluru_House_Data.csv,12931
+LIST-12951,JP Nagar,5th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,2.0,1000.0,13000000,13000.0,observed_portal_listing,Bengaluru_House_Data.csv,12951
+LIST-12963,Jayanagar,8th Block Jayanagar,Plot Area,Ready To Move,6.0,6.0,1.0,1500.0,30000000,20000.0,observed_portal_listing,Bengaluru_House_Data.csv,12963
+LIST-12973,JP Nagar,1st Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,900.0,7500000,8333.333333333334,observed_portal_listing,Bengaluru_House_Data.csv,12973
+LIST-12986,JP Nagar,8th Phase JP Nagar,Super built-up Area,19-Mar,3.0,3.0,2.0,1408.0,8000000,5681.818181818182,observed_portal_listing,Bengaluru_House_Data.csv,12986
+LIST-12993,BTM Layout,BTM 1st Stage,Plot Area,Ready To Move,5.0,4.0,2.0,1200.0,20000000,16666.666666666668,observed_portal_listing,Bengaluru_House_Data.csv,12993
+LIST-13021,JP Nagar,5th Phase JP Nagar,Plot Area,Ready To Move,4.0,4.0,1.0,2400.0,22800000,9500.0,observed_portal_listing,Bengaluru_House_Data.csv,13021
+LIST-13036,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,2100.0,19000000,9047.619047619048,observed_portal_listing,Bengaluru_House_Data.csv,13036
+LIST-13040,JP Nagar,JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,3.0,1500.0,8200000,5466.666666666667,observed_portal_listing,Bengaluru_House_Data.csv,13040
+LIST-13053,JP Nagar,8th Phase JP Nagar,Plot Area,Ready To Move,4.0,5.0,2.0,600.0,9900000,16500.0,observed_portal_listing,Bengaluru_House_Data.csv,13053
+LIST-13057,JP Nagar,7th Phase JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1140.0,5700000,5000.0,observed_portal_listing,Bengaluru_House_Data.csv,13057
+LIST-13124,JP Nagar,9th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,2.0,1331.95,6900000,5180.374638687638,observed_portal_listing,Bengaluru_House_Data.csv,13124
+LIST-13183,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,3.0,2.0,1420.0,9000000,6338.028169014085,observed_portal_listing,Bengaluru_House_Data.csv,13183
+LIST-13234,Jayanagar,7th Block Jayanagar,Built-up Area,Ready To Move,3.0,2.0,1.0,1903.0,29300000,15396.741986337362,observed_portal_listing,Bengaluru_House_Data.csv,13234
+LIST-13235,JP Nagar,7th Phase JP Nagar,Super built-up Area,Ready To Move,2.0,2.0,1.0,1530.0,10800000,7058.823529411765,observed_portal_listing,Bengaluru_House_Data.csv,13235
+LIST-13237,JP Nagar,JP Nagar,Built-up Area,Ready To Move,2.0,2.0,1.0,1048.0,4400000,4198.473282442748,observed_portal_listing,Bengaluru_House_Data.csv,13237
+LIST-13243,JP Nagar,8th Phase JP Nagar,Super built-up Area,Ready To Move,3.0,2.0,3.0,1500.0,5500000,3666.6666666666665,observed_portal_listing,Bengaluru_House_Data.csv,13243
